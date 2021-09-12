@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, We are SpeedDigit</h1>
-<h3 align="center">We provide full-stack Software Solution for your Businesses</h3>
+<h1 align="center">Hi, We are SpeedDigit</h1>
+<h3 align="center">The Complete Software Solution</h3>
 
 
 <div>
@@ -10,7 +10,7 @@
   </div>
 
 
-<p align="left">
+<p align="center">
   Connect with us: 
   <a href="https://twitter.com/speeddigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speeddigit" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/speeddigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="speeddigit" height="30" width="40" /></a>
