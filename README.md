@@ -2,8 +2,6 @@
 <h3 align="center">We provide full-stack Software Solution for your Businesses</h3>
 
 
-<h3 align="left">Our Stack:</h3>
-
 <div>
   
   
