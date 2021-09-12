@@ -6,7 +6,7 @@
   
   </div>
 
-<hr class="hr-1">
+<hr style="background: #fff; border-top: 1px solid #8c8b8b;">
 
 <p align="center">
   <a href="https://twitter.com/speeddigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speeddigit" height="30" width="40" /></a>
