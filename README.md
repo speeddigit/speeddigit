@@ -9,7 +9,7 @@ The Complete Software Solution
   
   </div>
 
-<hr style="background-color: #fff; border-top: 1px solid #8c8b8b;border: 0;height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));">
+<hr style="background-color: red;">
 
 <p align="center" style="padding-top: 20px;>
   <a href="https://twitter.com/speeddigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="speeddigit" height="30" width="40" /></a>
