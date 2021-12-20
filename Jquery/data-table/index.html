@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DataTable</title>
+    <link rel="stylesheet" href="./assets//jquery.dataTables.min.css">
+    <script src="./assets/jquery.min.js"></script>
+    <script src="./assets/jquery.dataTables.min.js"></script>
+</head>
+
+<body>
+    <h1>DataTable</h1>
+    <table id="my-table">
+    </table>
+
+
+    <script>
+
+        $(document).ready(function () {
+
+            const data = [
+                {
+                    "id": 1,
+                    "name": "Name 1",
+                    "email": "name1@example.com"
+                },
+
+                {
+                    "id": 2,
+                    "name": "Name 2",
+                    "email": "name2@example.com"
+                },
+                {
+                    "id": 3,
+                    "name": "Name 3",
+                    "email": "name3@example.com"
+                },
+                {
+                    "id": 4,
+                    "name": "Name 4",
+                    "email": "name4@example.com"
+                },
+                {
+                    "id": 5,
+                    "name": "Name 5",
+                    "email": "name5@example.com"
+                }
+            ];
+
+            $('#my-table').DataTable({
+                data: data,
+                columns: [
+                    { data: 'id', title: 'ID' },
+                    { data: 'name', title: 'Name' },
+                    { data: 'email', title: 'Email' }
+                ]
+            });
+        });
+    </script>
+</body>
+
+</html>
