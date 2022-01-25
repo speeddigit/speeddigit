@@ -8,8 +8,6 @@ $mapped_array1 = array_map(function($item) {
 
 print_r($mapped_array1);
 
-
-
 $arr2 = ['Hi', 'THIS', 'is',  'me'];
 $mapped_array2 = array_map(fn($item) => strtolower($item), $arr2);
 print_r($mapped_array2);

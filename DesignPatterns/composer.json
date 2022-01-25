@@ -1,0 +1,19 @@
+{
+    "name": "speeddigit/design-patterns",
+    "type": "phpunit",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sunwarul Islam",
+            "email": "sanoarulslm@gmail.com"
+        }
+    ]
+}
