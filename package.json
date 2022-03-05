@@ -1,0 +1,22 @@
+{
+  "name": "speeddigit",
+  "version": "1.0.0",
+  "description": "We **SpeedDigit Pvt. Ltd.**  is a leading Software Development company & IT service provider in Bangladesh, providing competitively priced Software Solutions and Services. It is the largest Retail Software and Solutions provider in Bangladesh. This software company offers a comprehensive and integrated business software suite with POS, CRM, Retail ERP software, Mobile Application, E-Commerce, and NBR approved VAT Accounting Software, fully developed on the latest Microsoft .NET® technology, for on-premise or on cloud installation. Our development team consists of experienced and qualified system analysts, application developers, solution developers, database administrators, programmers, support engineers, and testers. Our management ensures that each individual excels in their specific assigned tasks by working closely with them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speeddigit/speeddigit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/speeddigit/speeddigit/issues"
+  },
+  "homepage": "https://github.com/speeddigit/speeddigit#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
