@@ -5,7 +5,13 @@ require_once '../vendor/autoload.php';
 use Carbon\Carbon;
 
 $start = new Carbon('6:30');
-$end = new Carbon('24:00');
+$end = new Carbon('7:40');
+
+$diff =  $end->diff($start);
+
+echo $diff->h . ':'. $diff->i;
+
+
 
 // echo $start->diffInMinutes($end) . PHP_EOL;
 
@@ -22,5 +28,3 @@ $interval = $diff;
 // $_i = ($mins % 60);
 
 // echo "$_h : $_i";
-
-print_r($diff);
