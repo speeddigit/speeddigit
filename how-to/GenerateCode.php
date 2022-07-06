@@ -5,7 +5,7 @@ function generate(string $table, string $column = 'code', string $prefix = '', i
 {
     // $entryRaw = DB::table($table)->orderBy('id', 'desc')->first(["$column"]);
     $entryRaw = new stdClass;
-    $entryRaw->$column = 'INV-220509123456';
+    $entryRaw->$column = 'INV-220705123456';
     // return $entryRaw->$column;
 
     $prefix = strlen($prefix) === 0 ? strtoupper(substr($table, 0, 3)) : $prefix;
@@ -16,16 +16,23 @@ function generate(string $table, string $column = 'code', string $prefix = '', i
     $suffixSeparatorLength = strlen($suffixSeparator);
     $minSize = $prefixLength + $splitterLength + $dateTimeStrPrefixLength + $digits;
     $size = ($size < $minSize) ? $minSize : $size;
+    $lastDigitsNextValue = 1;
+
     if (isset($entryRaw)) {
         $entry = $entryRaw->$column;
         $suffixArr = preg_split("/([\\$splitter\-\#\*\--])/", $entry, -1, PREG_SPLIT_NO_EMPTY);
         $suffixStr = trim(array_pop($suffixArr));
         $suffixLength = strlen($suffixStr);
+        $previousDateDigits = substr($suffixStr, 0, 6);
         $lastDigits = substr($suffixStr, 6, strlen($suffixStr));
-        $lastDigitsNextValue = intval($lastDigits) + 1;
-    } else {
-        $lastDigitsNextValue = 1;
-    }
+        
+        if($dateTimeStrPrefix === $previousDateDigits)
+        {
+            $lastDigitsNextValue = intval($lastDigits) + 1;
+        } 
+
+    } 
+
     $lastDigitsLength = ($size - ($prefixLength + $dateTimeStrPrefixLength)) - 1;
     $lastDigitsFinal =  str_pad($lastDigitsNextValue, $lastDigitsLength, "0", STR_PAD_LEFT);
     $finalSuffix = $dateTimeStrPrefix . $suffixSeparator . $lastDigitsFinal;
@@ -33,4 +40,4 @@ function generate(string $table, string $column = 'code', string $prefix = '', i
     return $finalStr;
 }
 
-var_dump(generate('assets', 'code', 'ASSET', 10));
+var_dump(generate('assets', 'code', 'ASSET'));
