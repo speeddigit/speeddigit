@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Clipboard</title>
+</head>
+<body>
+	<div>
+
+		<span id="span">Hello world</span>
+		<input type="text" id="text" />
+		<button type="button" id="read">Read</button>
+	</div>
+	
+	<script type="text/javascript">
+		const textField = document.getElementById('text');
+		const span = document.getElementById('span');
+		const readButton = document.getElementById('read');
+
+		readButton.addEventListener('click', function() {
+			navigator.clipboard.writeText(span.textContent);
+		})
+
+		// navigator.clipboard.readText().then(function(text) {
+		// 	alert(text);
+		// })
+	</script>
+</body>
+</html>
