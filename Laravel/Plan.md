@@ -16,3 +16,16 @@
 - Study symphony and other laravel components from their individual repository (HTTP, PSR7, Carbon, Faker, Router, Eloquent, Etc)
 
 - Event, Event-listener, Mail, Job, Queue, Task-scheduling, Relationships, Collections, Gate, Policy, Advanced Blade, Live-wire, Compiling assets, Ocatane,
+
+
+Todo:
+
+- Observer
+- Macro
+- Policy
+- Gate
+- Blade Directive
+- Broadcasting
+- View composer
+- SAAS routing and Nginx configuration
+- Event/Listener
