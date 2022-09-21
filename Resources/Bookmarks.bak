@@ -1,0 +1,1393 @@
+{
+   "checksum": "b32c8eb38bcbe137e92c5746dc5566cb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13298637397419262",
+               "guid": "10df6ec4-3244-45fe-b643-ce4f6acb631d",
+               "id": "247",
+               "name": "Wikipedia - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Wikipedia"
+            }, {
+               "date_added": "13292697720705114",
+               "guid": "5043bec6-e0a0-402e-a108-dffa88fb187a",
+               "id": "197",
+               "name": "Overview of ASP.NET Core | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0"
+            }, {
+               "date_added": "13282916441513709",
+               "guid": "3c68af9c-7c76-4c59-a5f7-e90d808f15d0",
+               "id": "125",
+               "name": "JavaScript | MDN",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            }, {
+               "date_added": "13282916510418298",
+               "guid": "ffab182c-345b-4585-ae9d-ad6e235ad404",
+               "id": "127",
+               "name": "PHP: addcslashes - Manual",
+               "type": "url",
+               "url": "https://www.php.net/manual/en/function.addcslashes.php"
+            }, {
+               "date_added": "13282916538337976",
+               "guid": "f8538f8f-3cd9-4f9c-93fa-b5c859a2b775",
+               "id": "128",
+               "name": "The Modern JavaScript Tutorial",
+               "type": "url",
+               "url": "https://javascript.info/"
+            }, {
+               "date_added": "13282916879243694",
+               "guid": "6a692d4f-801e-41fd-a961-4d227a31a4fd",
+               "id": "129",
+               "name": "Learn JavaScript Tutorial - javatpoint",
+               "type": "url",
+               "url": "https://www.javatpoint.com/javascript-tutorial"
+            }, {
+               "date_added": "13282916976308199",
+               "guid": "b04e70eb-c5f6-48d6-a40d-5acb2804cf77",
+               "id": "130",
+               "name": "Laravel Tutorial - Javatpoint",
+               "type": "url",
+               "url": "https://www.javatpoint.com/laravel"
+            }, {
+               "date_added": "13274366535483141",
+               "guid": "5f37a2bd-8979-4c44-b840-041f69352308",
+               "id": "20",
+               "name": "cs-books/influential-cs-books: Most influential books on Computer Science/programming",
+               "type": "url",
+               "url": "https://github.com/cs-books/influential-cs-books"
+            }, {
+               "date_added": "13284535057444376",
+               "guid": "43c47b64-1720-427b-a382-20eb53ef3887",
+               "id": "134",
+               "name": "Design Patterns in PHP",
+               "type": "url",
+               "url": "https://refactoring.guru/design-patterns/php"
+            }, {
+               "date_added": "13284535272885271",
+               "guid": "9cc363ec-a3d0-40af-9025-84abf714866f",
+               "id": "135",
+               "name": "1. Creational — DesignPatternsPHP 1.0 documentation",
+               "type": "url",
+               "url": "https://designpatternsphp.readthedocs.io/en/latest/Creational/README.html"
+            }, {
+               "date_added": "13284712393755521",
+               "guid": "b5a4e4f2-161e-4ecf-b528-d3b932e0f74e",
+               "id": "140",
+               "name": "font problem in generated pdf",
+               "type": "url",
+               "url": "https://laracasts.com/discuss/channels/laravel/bengali-font-problem-an-article-is-generated-as-pdf"
+            }, {
+               "date_added": "13285851971240239",
+               "guid": "52ca3123-5d97-4640-ab61-710fe64b39e9",
+               "id": "158",
+               "name": "PHP: Basic syntax - Manual",
+               "type": "url",
+               "url": "https://www.php.net/manual/en/language.basic-syntax.php"
+            }, {
+               "date_added": "13285928769292836",
+               "guid": "c45fe032-63e9-42c9-9761-7c2ebe8883d0",
+               "id": "162",
+               "name": "মাইএসকিউএল | ডেভ সংকেত",
+               "type": "url",
+               "url": "https://devsonket.com/print/mysql/"
+            }, {
+               "date_added": "13285930615005887",
+               "guid": "5ce85cc4-95ec-4bf8-9eb7-0a2e4ec8fcf1",
+               "id": "163",
+               "name": "amazon web services - How to host multiple laravel projects on single AWS EC2 instance? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/65008185/how-to-host-multiple-laravel-projects-on-single-aws-ec2-instance"
+            }, {
+               "date_added": "13286103391451652",
+               "guid": "cf17396e-e0dd-4bce-ab81-0f1d61d5b6a5",
+               "id": "168",
+               "name": "PHP: Type declarations - Manual",
+               "type": "url",
+               "url": "https://www.php.net/manual/en/language.types.declarations.php"
+            }, {
+               "date_added": "13292570408100686",
+               "guid": "d2baaa8b-cae5-4e28-9a60-9b8a68a79203",
+               "id": "193",
+               "name": "Top 100 JavaScript Interview Questions and Answers for 2022",
+               "type": "url",
+               "url": "https://www.guru99.com/javascript-interview-questions-answers.html"
+            }, {
+               "date_added": "13292570696608155",
+               "guid": "4d241bbc-dfe1-41c4-ae77-0e44e262cbc8",
+               "id": "194",
+               "name": "GitHub - sudheerj/javascript-interview-questions: List of 1000 JavaScript Interview Questions",
+               "type": "url",
+               "url": "https://github.com/sudheerj/javascript-interview-questions"
+            }, {
+               "date_added": "13292665105277999",
+               "guid": "bddb79ce-4acf-41f4-a671-66fce0957783",
+               "id": "196",
+               "name": "Build RESTful APIs Using ASP.NET Core and Entity Framework Core",
+               "type": "url",
+               "url": "http://codingsonata.com/build-restful-apis-using-asp-net-core-and-entity-framework-core/"
+            }, {
+               "date_added": "13292706912818439",
+               "guid": "a583b9a0-831e-42f4-8372-39b416e50e66",
+               "id": "198",
+               "name": "ArrayList Class (System.Collections) | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist?view=net-6.0"
+            }, {
+               "date_added": "13292707781239506",
+               "guid": "5c6497ae-366e-42f5-b3ed-b628cfb20b4e",
+               "id": "199",
+               "name": "Getting Started - EF Core | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli"
+            }, {
+               "date_added": "13293441553321660",
+               "guid": "c7768a10-080e-4acf-86a2-9c771ee949ce",
+               "id": "203",
+               "name": "Installing PHP 8.1 on Ubuntu after removing 8.0 first - Squirrels Hate Robots - Pegasus Gate",
+               "type": "url",
+               "url": "https://pegasusgate.net/+bob/46/installing-php-81-on-ubuntu-after-removing-80-first"
+            }, {
+               "date_added": "13294816492347449",
+               "guid": "b8510da1-9127-40d7-a0bc-6197b0ef4d5b",
+               "id": "205",
+               "name": "GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+               "type": "url",
+               "url": "https://github.com/donnemartin/system-design-primer"
+            }, {
+               "date_added": "13294867191018719",
+               "guid": "295b6643-7987-49e8-8041-38b554c59ebb",
+               "id": "207",
+               "name": "Part 1 - C# Tutorial - Introduction.avi - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105&index=1"
+            }, {
+               "date_added": "13294867217922472",
+               "guid": "a7fbf47d-f13b-4775-8ada-ded5e51a3645",
+               "id": "208",
+               "name": "What is ASP.NET Part 1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=3AYoipyqOkQ&list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo"
+            }, {
+               "date_added": "13294867814707579",
+               "guid": "36dc8e19-6199-499a-be03-39fdd4c05c1b",
+               "id": "209",
+               "name": "Install SQL Server 2019 Step by Step | Developer Edition | Free Software | Install SSMS - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7GVFYt6_ZFM&list=PL08903FB7ACA1C2FB"
+            }, {
+               "date_added": "13294867818843600",
+               "guid": "ce64cd29-cb10-444e-8652-6091109c4248",
+               "id": "210",
+               "name": ".NET 6 & EF Core 🚀 ALL Relationships (1:1, 1:n, n:n) with Entity Framework Core 6 & SQL Server - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=FHx6AGVF_IE"
+            }, {
+               "date_added": "13294875849495770",
+               "guid": "3281f07a-beb9-4090-aaf6-aa136fea1621",
+               "id": "211",
+               "name": "Realtime PHP Using Websockets - Jeff Kolesnikowicz @jkolez - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Q7Us_DjMbXU"
+            }, {
+               "date_added": "13296736018560853",
+               "guid": "36b3dbc2-7517-4c4b-9f3d-6a2d918cd000",
+               "id": "216",
+               "name": "A general approach to backtracking questions in Java (Subsets, Permutations, Combination Sum, Palindrome Partioning) - LeetCode Discuss",
+               "type": "url",
+               "url": "https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)"
+            }, {
+               "date_added": "13296805805433365",
+               "guid": "f24bcbac-53b9-49b1-bca8-3beebeab7d16",
+               "id": "218",
+               "name": "PHP: Generators overview - Manual",
+               "type": "url",
+               "url": "https://www.php.net/manual/en/language.generators.overview.php"
+            }, {
+               "date_added": "13277115052391169",
+               "guid": "64efe4a3-d347-4ab3-9674-583f3cca8874",
+               "id": "62",
+               "name": "goodnesskay/Laravel-Open-Source-Projects: A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework.",
+               "type": "url",
+               "url": "https://github.com/goodnesskay/Laravel-Open-Source-Projects"
+            }, {
+               "date_added": "13298144806622529",
+               "guid": "69cc0e75-2d15-4a4d-905c-ea50340d0b3d",
+               "id": "234",
+               "name": "Introduction to Identity on ASP.NET Core | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity?view=aspnetcore-6.0&tabs=netcore-cli"
+            }, {
+               "date_added": "13298147840792867",
+               "guid": "56232f8e-a7df-4541-adaa-0a4b42754b71",
+               "id": "235",
+               "name": "Tutorials/Todo/Index | Documentation Center | ABP.IO",
+               "type": "url",
+               "url": "https://docs.abp.io/en/abp/latest/Tutorials/Todo/Index?UI=MVC&DB=EF"
+            }, {
+               "date_added": "13298299961836469",
+               "guid": "7fa93aa3-ca69-450c-b0f7-71078baefca0",
+               "id": "237",
+               "name": "erp.test/public/backend/asset/cdn/js/jquery.dataTables.min.js",
+               "type": "url",
+               "url": "http://erp.test/public/backend/asset/cdn/js/jquery.dataTables.min.js"
+            }, {
+               "date_added": "13298319458472334",
+               "guid": "670424d6-3a49-4770-a4cb-c88d23360449",
+               "id": "239",
+               "name": "HONS_Guideline.pdf",
+               "type": "url",
+               "url": "http://app1.nu.edu.bd/notice/HONS_Guideline.pdf"
+            }, {
+               "date_added": "13298383598295395",
+               "guid": "e0ec11d4-db32-47ce-bbcb-ae01231127dc",
+               "id": "241",
+               "name": "How to use Laravel with Socket.IO",
+               "type": "url",
+               "url": "https://www.freecodecamp.org/news/how-to-use-laravel-with-socket-io-e7c7565cc19d/"
+            }, {
+               "date_added": "13298476882020946",
+               "guid": "31c18fbe-148a-4f74-86e5-3cf86800a6a7",
+               "id": "243",
+               "name": "A C# Central Logging Mechanism using the Observer and Singleton Patterns - CodeProject",
+               "type": "url",
+               "url": "https://www.codeproject.com/Articles/21338/A-C-Central-Logging-Mechanism-using-the-Observer-a"
+            }, {
+               "date_added": "13298539386735185",
+               "guid": "84f8f371-36df-46b7-8cfe-3d24bcdd9dc4",
+               "id": "245",
+               "name": "All Sale - Dotbook ERP",
+               "type": "url",
+               "url": "http://127.0.0.1:5500/navbar.html"
+            }, {
+               "date_added": "13298810940176891",
+               "guid": "3127b50c-f585-4432-8459-e55907bd2833",
+               "id": "250",
+               "name": "Concept :: Lucid",
+               "type": "url",
+               "url": "https://docs.lucidarch.dev/concept/"
+            }, {
+               "date_added": "13298816042845079",
+               "guid": "c16827e7-4ab5-4dd0-ab75-240baa8cdee9",
+               "id": "251",
+               "name": "Introduction - Laravel Modules Docs",
+               "type": "url",
+               "url": "https://docs.laravelmodules.com/v9/introduction"
+            }, {
+               "date_added": "13298968435457002",
+               "guid": "17a180f5-8d9a-408e-b82a-2434810b0ce5",
+               "id": "253",
+               "name": "php - How to use multiple databases in Laravel - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/31847054/how-to-use-multiple-databases-in-laravel"
+            }, {
+               "date_added": "13298970217895683",
+               "guid": "ea8087c3-df71-4940-b1aa-61d982231c99",
+               "id": "254",
+               "name": "Change database name of connection on the fly",
+               "type": "url",
+               "url": "https://laracasts.com/discuss/channels/general-discussion/change-database-name-of-connection-on-the-fly"
+            }, {
+               "date_added": "13298970325671229",
+               "guid": "792744fa-2e46-4bea-ad64-0583ec0f3f2b",
+               "id": "255",
+               "name": "php - laravel Change Database connection run time - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/31041893/laravel-change-database-connection-run-time"
+            }, {
+               "date_added": "13299574821746159",
+               "guid": "add2a3f9-b826-4edb-b4e7-f737cbed3241",
+               "id": "257",
+               "name": "PECL :: Package :: dio 0.2.1 for Windows",
+               "type": "url",
+               "url": "https://pecl.php.net/package/dio/0.2.1/windows"
+            }, {
+               "date_added": "13299580428738555",
+               "guid": "cf35a383-834a-45bd-8f73-0f2561ae3e43",
+               "id": "259",
+               "name": "PHP 8.1.0 - phpinfo()",
+               "type": "url",
+               "url": "http://php.test/"
+            }, {
+               "date_added": "13299591436648010",
+               "guid": "3cc8abe5-d5ff-4ca6-975d-1d0d47732ce2",
+               "id": "260",
+               "name": "serialport/node-serialport: Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!",
+               "type": "url",
+               "url": "https://github.com/serialport/node-serialport"
+            }, {
+               "date_added": "13299591442456220",
+               "guid": "44d709ec-2e75-4759-a4ad-c6ee284c1304",
+               "id": "261",
+               "name": "📦 serialport | Node SerialPort",
+               "type": "url",
+               "url": "https://serialport.io/docs/api-serialport"
+            }, {
+               "date_added": "13299657469345140",
+               "guid": "53125f1b-e010-46c7-a58a-fb3e7472b883",
+               "id": "263",
+               "name": "[Solved] Read serial port data from web application - CodeProject",
+               "type": "url",
+               "url": "https://www.codeproject.com/Questions/1090695/Read-serial-port-data-from-web-application"
+            }, {
+               "date_added": "13299661097909590",
+               "guid": "70322580-dcd0-40a9-927d-c8a1a513317e",
+               "id": "264",
+               "name": "ComPort over Network",
+               "type": "url",
+               "url": "https://gist.github.com/DraTeots/e0c669608466470baa6c"
+            }, {
+               "date_added": "13299746667151973",
+               "guid": "b8abc056-c10b-430d-9512-88ecc4b962a7",
+               "id": "266",
+               "name": "Interfaces vs Abstract Classes in PHP | Ash Allen Design",
+               "type": "url",
+               "url": "https://ashallendesign.co.uk/blog/interfaces-vs-abstract-classes-in-php"
+            }, {
+               "date_added": "13303372242438763",
+               "guid": "af085fc9-e907-493e-9239-23003f51b3e2",
+               "id": "281",
+               "name": "Laravel Vite - Vite integration for the Laravel framework | Laravel Vite",
+               "type": "url",
+               "url": "https://laravel-vite.dev/"
+            } ],
+            "date_added": "13282916501680043",
+            "date_modified": "13303386727404184",
+            "guid": "f9a38c0a-0f63-4af9-a0d5-3d562d8359c5",
+            "id": "126",
+            "name": "Docs",
+            "type": "folder"
+         }, {
+            "date_added": "13274088036847786",
+            "guid": "4b416eb8-9f53-4e82-95f1-80657157d7a5",
+            "id": "14",
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13295220322650026",
+            "guid": "7a019e76-d3a2-4673-bf25-01fa1e1810b7",
+            "id": "309",
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/teddysmithdev/pokemon-review-api"
+         }, {
+            "date_added": "13297408548149791",
+            "guid": "31704a0e-7e35-4e35-a402-153e1d555e3c",
+            "id": "310",
+            "name": "",
+            "type": "url",
+            "url": "https://themeforest.net/"
+         }, {
+            "date_added": "13273822207949979",
+            "guid": "de62404f-a516-4f97-8073-184cfc625a5f",
+            "id": "9",
+            "name": "",
+            "type": "url",
+            "url": "https://laravel.com/docs"
+         }, {
+            "date_added": "13275314965782555",
+            "guid": "f2832bb8-7911-49e1-a460-5357b0d90ad9",
+            "id": "47",
+            "name": "",
+            "type": "url",
+            "url": "https://www.w3schools.com/icons/icons_reference.asp"
+         }, {
+            "date_added": "13292328611666430",
+            "guid": "ec503630-11b2-4b97-b1bf-26da767f1441",
+            "id": "191",
+            "name": "",
+            "type": "url",
+            "url": "https://dotnetfiddle.net/"
+         }, {
+            "date_added": "13302777372999047",
+            "guid": "2a46986d-9f21-430e-8659-ba181a136739",
+            "id": "279",
+            "name": "",
+            "type": "url",
+            "url": "https://ideone.com/"
+         }, {
+            "date_added": "13280486424503497",
+            "guid": "4a261047-ebc4-4da0-83da-e4c616bd9579",
+            "id": "103",
+            "name": "",
+            "type": "url",
+            "url": "https://packagist.org/"
+         }, {
+            "date_added": "13274603813800850",
+            "guid": "04056578-a766-4dbe-b79e-f94bcdb0efef",
+            "id": "25",
+            "name": "",
+            "type": "url",
+            "url": "https://www.prothomalo.com/"
+         }, {
+            "date_added": "13286096067490325",
+            "guid": "014f5d43-b502-4d74-999c-18415a245b33",
+            "id": "166",
+            "name": "",
+            "type": "url",
+            "url": "http://hrm-disney.test/admin/home"
+         }, {
+            "date_added": "13274864064087601",
+            "guid": "445be228-c08f-46b9-aef0-89f4a478c722",
+            "id": "36",
+            "name": "",
+            "type": "url",
+            "url": "http://phpmyadmin.test/"
+         }, {
+            "date_added": "13303629489220569",
+            "guid": "3d593474-d01d-4e31-babf-a42a8ba0cef6",
+            "id": "285",
+            "name": "",
+            "type": "url",
+            "url": "https://trello.com/b/52PfAy9n/erp-1st-release-manager"
+         }, {
+            "date_added": "13297150289822010",
+            "guid": "9acabc13-e474-4f2d-8641-fed473b143fd",
+            "id": "222",
+            "name": "",
+            "type": "url",
+            "url": "http://erp.test/"
+         }, {
+            "children": [ {
+               "date_added": "13306050414088426",
+               "guid": "c01e69e5-a9ce-4e80-931b-c28f37340e64",
+               "id": "318",
+               "name": "Login - ASBRM",
+               "type": "url",
+               "url": "http://dotbookerp.com/login"
+            }, {
+               "date_added": "13281691365029634",
+               "guid": "053420c2-0bb8-45e5-b422-805a2f33a461",
+               "id": "107",
+               "name": "HRM - Best Human Resource Management",
+               "type": "url",
+               "url": "http://sdhrms.com/admin/home"
+            }, {
+               "date_added": "13281691338189719",
+               "guid": "3edaf904-0111-44d1-9263-b788d5ef0b2a",
+               "id": "105",
+               "name": "sdhrms.com / localhost | phpMyAdmin 4.9.7deb1",
+               "type": "url",
+               "url": "http://sdhrms.com:81/"
+            }, {
+               "date_added": "13286464203387800",
+               "guid": "62eed169-6e2c-49c9-9776-d14e07074414",
+               "id": "170",
+               "name": "Happy 25th Anniversary, PHP! | The PHP Consulting Company",
+               "type": "url",
+               "url": "https://thephp.cc/articles/happy-25th-anniversary-php"
+            }, {
+               "date_added": "13288349364340437",
+               "guid": "0105ed9b-ad7a-4452-87a4-69ace6e7a761",
+               "id": "184",
+               "name": "Welcome - Market News BD",
+               "type": "url",
+               "url": "http://64.227.182.28/"
+            }, {
+               "date_added": "13303386727404184",
+               "guid": "b8df6753-e574-40d4-9df1-88119bc10bbb",
+               "id": "283",
+               "name": "Dashboard - Dotbook ERP",
+               "type": "url",
+               "url": "https://erp.dotbook.com/"
+            } ],
+            "date_added": "13281691353940085",
+            "date_modified": "13306050425972796",
+            "guid": "413e864a-d857-4b3a-bf16-71e1efc1c2d5",
+            "id": "106",
+            "name": "Productions",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13274687019748005",
+               "guid": "ceb9e5e1-4b3d-4dba-b694-42a409f0d1de",
+               "id": "287",
+               "name": "Gmail",
+               "type": "url",
+               "url": "https://accounts.google.com/b/0/AddMailService"
+            }, {
+               "date_added": "13278058660928188",
+               "guid": "8171eb07-1d26-477c-b482-7081e325af07",
+               "id": "288",
+               "name": "All Icons | IcoFont",
+               "type": "url",
+               "url": "https://icofont.com/icons"
+            }, {
+               "date_added": "13279530763948612",
+               "guid": "91570f88-4ec4-4e2a-a293-6fd48d029008",
+               "id": "289",
+               "name": "PlaceHolder - Online Dummy Image Generator For Placeholder Images",
+               "type": "url",
+               "url": "https://lab.csschopper.com/placeholder/"
+            }, {
+               "date_added": "13285139712021603",
+               "guid": "4b43ad41-6a5d-4f50-92c4-acd89b0f2faa",
+               "id": "290",
+               "name": "Axies - NFT Marketplace HTML Template by themesflat | ThemeForest",
+               "type": "url",
+               "url": "https://themeforest.net/item/axies-nft-marketplace-html-template/35105055"
+            }, {
+               "date_added": "13276163753667450",
+               "guid": "ee543e54-3662-458c-b3df-5fecf6140aa4",
+               "id": "291",
+               "name": "Translate",
+               "type": "url",
+               "url": "https://translate.google.com/"
+            }, {
+               "date_added": "13269342708105735",
+               "guid": "3c799511-129f-4ba4-9654-3e9b34f54c29",
+               "id": "292",
+               "name": "Getting Started | Select2 - The jQuery replacement for select boxes",
+               "type": "url",
+               "url": "https://select2.org/"
+            }, {
+               "date_added": "13273219319435804",
+               "guid": "0307520d-8241-4dd0-8daa-4a48a3afeb35",
+               "id": "293",
+               "name": "phpMyAdmin",
+               "type": "url",
+               "url": "http://localhost/phpmyadmin"
+            }, {
+               "date_added": "13294953637721994",
+               "guid": "0e3c885f-9b0e-4433-9282-fb673e287857",
+               "id": "294",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13275386644931230",
+               "guid": "ec5cbe88-f849-437b-8e70-9303626f9167",
+               "id": "295",
+               "name": "SppedDigit | Home",
+               "type": "url",
+               "url": "http://127.0.0.1:5500/speeddigitMainWebsiteTemplate/product.html"
+            }, {
+               "date_added": "13274687019750017",
+               "guid": "96847cff-797b-4c0a-b7bd-8f1e5ea94282",
+               "id": "296",
+               "name": "Maps",
+               "type": "url",
+               "url": "https://maps.google.com/"
+            }, {
+               "date_added": "13276163753358858",
+               "guid": "1ec541dc-d336-4006-b160-3a4212ce89a8",
+               "id": "297",
+               "name": "News",
+               "type": "url",
+               "url": "https://news.google.com/"
+            }, {
+               "date_added": "13278226757352474",
+               "guid": "e47371e8-02bc-42d2-a817-58f1904f183c",
+               "id": "298",
+               "name": "Product Carousel With Magnifying Glass Effect - jQuery exzoom | Free jQuery Plugins",
+               "type": "url",
+               "url": "https://www.jqueryscript.net/slider/Product-Carousel-Magnifying-Effect-exzoom.html"
+            }, {
+               "date_added": "13274687019749063",
+               "guid": "4915c381-3122-450c-bc2b-eb6eef93bde2",
+               "id": "299",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://youtube.com/"
+            }, {
+               "date_added": "13280743652021739",
+               "guid": "4dd434c1-92de-4cbc-89c1-acc4ca5bc399",
+               "id": "300",
+               "name": "How to make a Food review Landing Page design HTML , CSS & JavaScript.",
+               "type": "url",
+               "url": "https://devingine.com/post/how-to-make-a-food-review-landing-page-design-html-css-javascript"
+            }, {
+               "date_added": "13281091053459559",
+               "guid": "6439a03a-8390-494f-a2ab-e4b022e95c31",
+               "id": "301",
+               "name": "chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/document-blocked.html?details=%7B\"url\"%3A\"https%3A%2F%2Fclk.tradedoubler.com%2Fclick%3Fp%3D304608%26a%3D3214723%26g%3D24737478%26epi%3DGA1.3.1515294076.1630229960%26url%3Dhttps%253A%252F%252Fstock.adobe.com%252Fpromo%252Ffirstmonthfree%253Fas_campaign%253DFlaticon%2526as_content%253Dapi%2526as_audience%253Dsrp\"%2C\"hn\"%3A\"clk.tradedoubler.com\"%2C\"dn\"%3A\"tradedoubler.com\"%2C\"fs\"%3A\"%7C%7Ctradedoubler.com%5E\"%7D",
+               "type": "url",
+               "url": "chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/document-blocked.html?details=%7B%22url%22%3A%22https%3A%2F%2Fclk.tradedoubler.com%2Fclick%3Fp%3D304608%26a%3D3214723%26g%3D24737478%26epi%3DGA1.3.1515294076.1630229960%26url%3Dhttps%253A%252F%252Fstock.adobe.com%252Fpromo%252Ffirstmonthfree%253Fas_campaign%253DFlaticon%2526as_content%253Dapi%2526as_audience%253Dsrp%22%2C%22hn%22%3A%22clk.tradedoubler.com%22%2C%22dn%22%3A%22tradedoubler.com%22%2C%22fs%22%3A%22%7C%7Ctradedoubler.com%5E%22%7D"
+            }, {
+               "date_added": "13282138386793088",
+               "guid": "c3b81c7a-ed7d-4899-872f-2f24cb526b05",
+               "id": "302",
+               "name": "403 Forbidden",
+               "type": "url",
+               "url": "http://localhost/phpmyadmin/index.php"
+            }, {
+               "date_added": "13285920192224243",
+               "guid": "c538b9f1-2e38-4de3-9748-83c95732ed78",
+               "id": "303",
+               "name": "https://electrolo.codebasket.net/assets/js/multi-countdown.js",
+               "type": "url",
+               "url": "https://electrolo.codebasket.net/assets/js/multi-countdown.js"
+            }, {
+               "date_added": "13294317119964573",
+               "guid": "83b4bc59-c14f-4a16-a1c3-0683ad9ff6ea",
+               "id": "304",
+               "name": "revel",
+               "type": "url",
+               "url": "http://127.0.0.1:5500/index.html?"
+            }, {
+               "date_added": "13294916306686415",
+               "guid": "dc62be5e-e858-45cf-984a-16eff7079ed9",
+               "id": "305",
+               "name": "PSD to HTML",
+               "type": "url",
+               "url": "http://127.0.0.1:5501/index.html"
+            }, {
+               "date_added": "13305533612928979",
+               "guid": "8f2a0450-f32f-49de-b0dd-462ccf6b1d2f",
+               "id": "312",
+               "name": "javascript - JQuery to change price based on selected options - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/42876750/jquery-to-change-price-based-on-selected-options"
+            }, {
+               "date_added": "13305621832746113",
+               "guid": "ac9bdbd1-9e72-4c77-918f-cae9706b457c",
+               "id": "314",
+               "name": "Dribbble - thankyou-page.jpg by Dorin Andrei ♒",
+               "type": "url",
+               "url": "https://dribbble.com/shots/3601621-Checkout-Flow/attachments/803542?mode=media"
+            } ],
+            "date_added": "13304234169181054",
+            "date_modified": "13305794254033140",
+            "guid": "36eac637-ec32-4fc4-8ca7-eec2d94f6a63",
+            "id": "307",
+            "name": "SD",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13297594225681039",
+               "guid": "47447b03-5868-4936-bb7a-a88b0b8956ef",
+               "id": "226",
+               "name": "Dashboard - Genuine POS",
+               "type": "url",
+               "url": "http://pos.test/"
+            }, {
+               "date_added": "13300460080132477",
+               "guid": "d72d0c63-6fd9-4269-bc60-49275255f494",
+               "id": "268",
+               "name": "Associate users with roles and permissions | bestofphp",
+               "type": "url",
+               "url": "https://bestofphp.com/repo/spatie-laravel-permission-php-laravel-utilities"
+            }, {
+               "date_added": "13300460085163766",
+               "guid": "0b80c504-1f8b-4660-a4e3-9a1e7e6f56c9",
+               "id": "269",
+               "name": "Basic Usage | laravel-permission | Spatie",
+               "type": "url",
+               "url": "https://spatie.be/docs/laravel-permission/v5/basic-usage/basic-usage"
+            }, {
+               "date_added": "13300717855503674",
+               "guid": "2929c368-c26b-4fd5-82c1-d51f3988ee66",
+               "id": "271",
+               "name": "How to Find Duplicate Values in a SQL Table | Tutorial by Chartio",
+               "type": "url",
+               "url": "https://chartio.com/learn/databases/how-to-find-duplicate-values-in-a-sql-table/"
+            }, {
+               "date_added": "13300717861175760",
+               "guid": "6b3548c9-c570-47ee-b2ee-c31fd6766060",
+               "id": "272",
+               "name": "Detect duplicate data with match codes and rules - Power Platform | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/power-platform/admin/detect-duplicate-data"
+            }, {
+               "date_added": "13300786937133196",
+               "guid": "0245459a-e50c-4137-8e7c-30800b719cd2",
+               "id": "274",
+               "name": "Regex Generator - Creating regex is easy again!",
+               "type": "url",
+               "url": "https://regex-generator.olafneumann.org/?sampleText=2020-03-12T13%3A34%3A56.123Z%20INFO%20%20%5Borg.example.Class%5D%3A%20This%20is%20a%20%23simple%20%23logline%20containing%20a%20%27value%27.&flags=i&onlyPatterns=false&matchWholeLine=false&selection="
+            }, {
+               "date_added": "13301047963932923",
+               "guid": "6ed84be1-2d43-4e8f-a7fa-bd96fcd647b6",
+               "id": "276",
+               "name": "amranidev/scaffold-interface - Packagist",
+               "type": "url",
+               "url": "https://packagist.org/packages/amranidev/scaffold-interface"
+            }, {
+               "date_added": "13301048983757959",
+               "guid": "de877b42-5dc8-4740-915d-62184338bb00",
+               "id": "277",
+               "name": "spatie/laravel-permission: Associate users with roles and permissions",
+               "type": "url",
+               "url": "https://github.com/spatie/laravel-permission"
+            }, {
+               "date_added": "13297592128721869",
+               "guid": "4e7fe622-7748-447d-8a1c-e1ff0c100da1",
+               "id": "225",
+               "name": "Welcome - ERP Admin Template",
+               "type": "url",
+               "url": "file:///E:/projects/erp-admin-panel/index.html"
+            }, {
+               "date_added": "13287493857928475",
+               "guid": "3e8718c6-28f6-45f4-ae8f-d5f92bc713ad",
+               "id": "179",
+               "name": "",
+               "type": "url",
+               "url": "http://mimtradersbd.test/"
+            }, {
+               "date_added": "13305794254033140",
+               "guid": "ca88a602-2ac3-449b-8d06-cd15e10ec7ce",
+               "id": "316",
+               "name": "nWidart (Nicolas Widart)",
+               "type": "url",
+               "url": "https://github.com/nWidart"
+            } ],
+            "date_added": "13297592103980569",
+            "date_modified": "13306050414088426",
+            "guid": "bc8933c7-4918-4c0e-b850-381c6146c8e1",
+            "id": "224",
+            "name": "ERP Project",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13282302819912468",
+               "guid": "f87353bd-2c54-4433-a63e-29c258c8c1d9",
+               "id": "115",
+               "name": "PHP: PHP Manual - Manual",
+               "type": "url",
+               "url": "https://www.php.net/manual/en/"
+            }, {
+               "date_added": "13276157321418524",
+               "guid": "84aa06a1-a163-4f26-b2d5-a46acfa12a09",
+               "id": "49",
+               "name": "PHPUnit Manual — PHPUnit 9.5 Manual",
+               "type": "url",
+               "url": "https://phpunit.readthedocs.io/en/9.5/"
+            }, {
+               "date_added": "13276266012248171",
+               "guid": "9887f356-9b1b-41e6-a065-7dbed1a5c551",
+               "id": "52",
+               "name": "❍ Free Pack",
+               "type": "url",
+               "url": "https://icomoon.io/#preview-free"
+            }, {
+               "date_added": "13276500942052888",
+               "guid": "1276020a-88a7-4122-a2d5-116e97eede62",
+               "id": "56",
+               "name": "Project Page - HERE Developer",
+               "type": "url",
+               "url": "https://developer.here.com/projects/PROD-924db4f7-b2bc-49b6-b66b-65452cd5bcfb"
+            }, {
+               "date_added": "13276510981108982",
+               "guid": "9d21bac0-5e42-4993-844e-0fa841791283",
+               "id": "58",
+               "name": "maps-api-for-javascript-examples/markers-on-the-map at master · heremaps/maps-api-for-javascript-examples",
+               "type": "url",
+               "url": "https://github.com/heremaps/maps-api-for-javascript-examples/tree/master/markers-on-the-map"
+            }, {
+               "date_added": "13276527262828458",
+               "guid": "7845bfd2-bd01-4d86-987b-24c9300a3e1d",
+               "id": "60",
+               "name": "Documentation - Leaflet - a JavaScript library for interactive maps",
+               "type": "url",
+               "url": "https://leafletjs.com/reference-1.7.1.html"
+            }, {
+               "date_added": "13277115516374091",
+               "guid": "568d0453-cdab-4ed8-8fdf-70d17b6f7155",
+               "id": "63",
+               "name": "avored/laravel-ecommerce: AvoRed an Open Source Laravel Shopping Cart",
+               "type": "url",
+               "url": "https://github.com/avored/laravel-ecommerce"
+            }, {
+               "date_added": "13277118061209761",
+               "guid": "56792986-5399-4455-99c3-78d473300ab2",
+               "id": "64",
+               "name": "Introduction | Vue.js",
+               "type": "url",
+               "url": "https://v3.vuejs.org/guide/introduction.html"
+            }, {
+               "date_added": "13277118093927802",
+               "guid": "f066b31e-2685-4f9f-93ef-a6d92068bac5",
+               "id": "65",
+               "name": "Installation | Vue Router",
+               "type": "url",
+               "url": "https://next.router.vuejs.org/installation.html"
+            }, {
+               "date_added": "13277279850561644",
+               "guid": "587427d2-7823-47d4-91ef-6594bfa2dc55",
+               "id": "67",
+               "name": "Setting up Laravel Sanctum (Airlock) for SPA authentication with Vue.js",
+               "type": "url",
+               "url": "https://blog.codecourse.com/setting-up-laravel-sanctum-airlock-for-spa-authentication-with-vue/"
+            }, {
+               "date_added": "13277285696831236",
+               "guid": "d622b376-7715-4387-9fe4-d2d14a709dd8",
+               "id": "68",
+               "name": "Vue CSRF Protection Guide: Examples and Enabling Protection",
+               "type": "url",
+               "url": "https://www.stackhawk.com/blog/vue-csrf-protection-guide-csrf-examples-and-how-to-enable-protection/"
+            }, {
+               "date_added": "13277382706936690",
+               "guid": "214f9452-6e23-4e43-949b-d030de166f41",
+               "id": "71",
+               "name": "vue-sanctum - npm",
+               "type": "url",
+               "url": "https://www.npmjs.com/package/vue-sanctum"
+            }, {
+               "date_added": "13277459599111835",
+               "guid": "c372a91b-e7e1-46dd-ba2b-b136d4d7e853",
+               "id": "74",
+               "name": "Removing PUBLIC from URL | Laravel.io",
+               "type": "url",
+               "url": "https://laravel.io/forum/03-11-2014-removing-public-from-url"
+            }, {
+               "date_added": "13277469358478624",
+               "guid": "6c552200-7da0-4d22-9968-bbb271a2b90c",
+               "id": "76",
+               "name": "Getting Started with Repository Pattern in Laravel using Inheritance and Dependency Injection - DEV Community",
+               "type": "url",
+               "url": "https://dev.to/carlomigueldy/getting-started-with-repository-pattern-in-laravel-using-inheritance-and-dependency-injection-2ohe"
+            }, {
+               "date_added": "13279029604972064",
+               "guid": "60c86a38-51e3-42e2-a19f-6a4d64011472",
+               "id": "83",
+               "name": "PHP: DateTime::format - Manual",
+               "type": "url",
+               "url": "https://www.php.net/manual/en/datetime.format.php"
+            }, {
+               "date_added": "13279093861537204",
+               "guid": "28b63abc-630d-4ecb-8c88-717ad97503ce",
+               "id": "85",
+               "name": "php - How to sum all column values in multi-dimensional array? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/1496682/how-to-sum-all-column-values-in-multi-dimensional-array"
+            }, {
+               "date_added": "13279547682116014",
+               "guid": "52494c43-ae9d-41dc-84f4-690024a59877",
+               "id": "93",
+               "name": "Moment Timezone | Docs",
+               "type": "url",
+               "url": "https://momentjs.com/timezone/docs/"
+            }, {
+               "date_added": "13282812466282997",
+               "guid": "80d59de4-f0ee-4cca-92b8-e2f962c2a92d",
+               "id": "121",
+               "name": "MySQL Tutorial",
+               "type": "url",
+               "url": "https://www.w3schools.com/mySQl/default.asp"
+            }, {
+               "date_added": "13282812479821321",
+               "guid": "ef88ac5f-e824-4df0-b651-96073fa009bb",
+               "id": "122",
+               "name": "PHP Tutorial",
+               "type": "url",
+               "url": "https://www.w3schools.com/php/default.asp"
+            } ],
+            "date_added": "13276157332079817",
+            "date_modified": "13282916444215733",
+            "guid": "643d3903-8869-4c6a-b5d0-27d0182ec4ba",
+            "id": "50",
+            "name": "PHP",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13287393732520301",
+               "guid": "f385d674-8511-43d8-b9e7-2da8a55a144e",
+               "id": "176",
+               "name": "Introduction | Laravel Modules Docs**",
+               "type": "url",
+               "url": "https://nwidart.com/laravel-modules/v6/introduction"
+            }, {
+               "date_added": "13281968433264188",
+               "guid": "f1952afa-9dde-4c90-82ff-551135c9878f",
+               "id": "109",
+               "name": "fzaninotto/Faker: Faker is a PHP library that generates fake data for you",
+               "type": "url",
+               "url": "https://github.com/fzaninotto/Faker#fakerprovideren_uscompany"
+            }, {
+               "date_added": "13277804280201416",
+               "guid": "506a0703-f002-4096-96f7-9066f41de5b2",
+               "id": "78",
+               "name": "barryvdh/laravel-debugbar: Laravel Debugbar (Integrates PHP Debug Bar)",
+               "type": "url",
+               "url": "https://github.com/barryvdh/laravel-debugbar"
+            }, {
+               "date_added": "13277286951558631",
+               "guid": "ec5f66e2-e3c0-422c-aec9-cda8164778e4",
+               "id": "69",
+               "name": "cretueusebiu/laravel-vue-spa: A Laravel-Vue SPA starter kit.",
+               "type": "url",
+               "url": "https://github.com/cretueusebiu/laravel-vue-spa"
+            }, {
+               "date_added": "13277382714305239",
+               "guid": "be5bbf96-42a1-469e-895b-0b1d37348573",
+               "id": "72",
+               "name": "marksitko/vue-sanctum",
+               "type": "url",
+               "url": "https://github.com/marksitko/vue-sanctum"
+            }, {
+               "date_added": "13279533898380327",
+               "guid": "e5d913cd-209a-43ab-9f6e-a11192d80fd5",
+               "id": "90",
+               "name": "tridibdawn/Repository-Pattern: Laravel Repository Pattern",
+               "type": "url",
+               "url": "https://github.com/tridibdawn/Repository-Pattern"
+            }, {
+               "date_added": "13282123466735335",
+               "guid": "839b488f-eccc-4662-8f8a-d96a0520a01b",
+               "id": "112",
+               "name": "Carbon - A simple PHP API extension for DateTime.",
+               "type": "url",
+               "url": "https://carbon.nesbot.com/docs/"
+            }, {
+               "date_added": "13284282606700432",
+               "guid": "1b371476-0744-471a-890b-7a547c5c3d9c",
+               "id": "132",
+               "name": "jenssegers/agent: 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect",
+               "type": "url",
+               "url": "https://github.com/jenssegers/agent"
+            }, {
+               "date_added": "13284711334963989",
+               "guid": "daf029a2-ee15-443a-80a5-78f4e5067c55",
+               "id": "139",
+               "name": "niklasravnsborg/laravel-pdf: 👀 Looking for new maintainers, please reach out by opening an issue.",
+               "type": "url",
+               "url": "https://github.com/niklasravnsborg/laravel-pdf"
+            }, {
+               "date_added": "13285579481059780",
+               "guid": "df4c7faf-e7d9-4e06-ba94-7ee259d2ca17",
+               "id": "144",
+               "name": "Introduction | Laravel Excel",
+               "type": "url",
+               "url": "https://docs.laravel-excel.com/3.1/getting-started/"
+            }, {
+               "date_added": "13285596715111714",
+               "guid": "7dbd6645-ab9e-4069-9346-2666698f507e",
+               "id": "145",
+               "name": "Welcome to PhpSpreadsheet's documentation - PhpSpreadsheet Documentation",
+               "type": "url",
+               "url": "https://phpspreadsheet.readthedocs.io/en/latest/"
+            }, {
+               "date_added": "13285682877197085",
+               "guid": "dd7dbdd7-268a-4018-8c77-59d9a27cc3cd",
+               "id": "147",
+               "name": "nuhil/bangla-calendar: jQuery plugin to display Time-Stamp, based on Bangla Calendar",
+               "type": "url",
+               "url": "https://github.com/nuhil/bangla-calendar"
+            }, {
+               "date_added": "13285683088543929",
+               "guid": "6d744ae9-3b6b-40a3-a185-5661327ca41d",
+               "id": "148",
+               "name": "nuhil (Nuhil Mehdy)",
+               "type": "url",
+               "url": "https://github.com/nuhil"
+            }, {
+               "date_added": "13285685112337735",
+               "guid": "27a6cb3c-d7de-4452-8771-f898d5a27079",
+               "id": "149",
+               "name": "📆 a jQuery calendar plugin that uses HTML templates",
+               "type": "url",
+               "url": "https://lab.iamrohit.in/p/kylestetz/CLNDR"
+            }, {
+               "date_added": "13285748930571334",
+               "guid": "e36ddbb4-6d69-4dc2-8b8c-ec6e1faaf4b9",
+               "id": "151",
+               "name": "nurkarim/zkteco-sdk-php",
+               "type": "url",
+               "url": "https://github.com/nurkarim/zkteco-sdk-php"
+            }, {
+               "date_added": "13286103160787005",
+               "guid": "8c91c808-66b3-4968-821e-1cf5cb2a78f0",
+               "id": "167",
+               "name": "The Laravel Framework",
+               "type": "url",
+               "url": "https://github.com/laravel"
+            }, {
+               "date_added": "13286893435308634",
+               "guid": "db4f4abb-dfee-492f-a223-87c83d7311e7",
+               "id": "172",
+               "name": "Sortable Draggable Accordion In jQuery | Free jQuery Plugins",
+               "type": "url",
+               "url": "https://www.jqueryscript.net/accordion/sortable-draggable.html"
+            }, {
+               "date_added": "13287402521341292",
+               "guid": "ec4ca6fe-e54a-48a8-bb40-3d636bfb01d8",
+               "id": "177",
+               "name": "AsgardCms/Platform: A modular multilingual CMS built with Laravel 5.",
+               "type": "url",
+               "url": "https://github.com/AsgardCms/Platform"
+            }, {
+               "date_added": "13288014105040577",
+               "guid": "9a38c142-9ec6-49d6-a235-1359b81ea77e",
+               "id": "181",
+               "name": "bumbummen99/LaravelShoppingcart: A simple shopping cart implementation for Laravel",
+               "type": "url",
+               "url": "https://github.com/bumbummen99/LaravelShoppingcart"
+            }, {
+               "date_added": "13288348909105625",
+               "guid": "88048a36-d182-4230-bb50-218415099252",
+               "id": "183",
+               "name": "1.webp (550×368)",
+               "type": "url",
+               "url": "https://www.gstatic.com/webp/gallery/1.webp"
+            }, {
+               "date_added": "13290336798055924",
+               "guid": "44e7bc48-56fa-44af-be64-0751bb1525e7",
+               "id": "186",
+               "name": "Module Management In Laravel | bestofphp",
+               "type": "url",
+               "url": "https://bestofphp.com/repo/nWidart-laravel-modules-php-laravel-utilities"
+            }, {
+               "date_added": "13291041454810863",
+               "guid": "2a3c01a2-17b5-4737-a6c8-4a8b35f10cb0",
+               "id": "188",
+               "name": "Installation - Laravel DataTables YajraBox",
+               "type": "url",
+               "url": "https://yajrabox.com/docs/laravel-datatables/master"
+            }, {
+               "date_added": "13291041459754151",
+               "guid": "3e003ce1-7be3-4bda-8db6-69d183814811",
+               "id": "189",
+               "name": "yajra/laravel-datatables: jQuery DataTables API for Laravel 4|5|6|7|8|9",
+               "type": "url",
+               "url": "https://github.com/yajra/laravel-datatables"
+            }, {
+               "date_added": "13296724161561088",
+               "guid": "1f21b008-fd2a-4582-ae35-8f8f66200780",
+               "id": "213",
+               "name": "LaravelDaily/Laravel-Vue-3-Composition-API-CRUD",
+               "type": "url",
+               "url": "https://github.com/LaravelDaily/Laravel-Vue-3-Composition-API-CRUD"
+            }, {
+               "date_added": "13296724174416924",
+               "guid": "963e5db7-758d-4dd7-bc09-3f94d7e101b5",
+               "id": "214",
+               "name": "jsafe00/laravel-service-repository: Laravel-Service-Repository pattern",
+               "type": "url",
+               "url": "https://github.com/jsafe00/laravel-service-repository"
+            }, {
+               "date_added": "13296724691313837",
+               "guid": "5317e0fb-c672-4209-9198-40a0f14ab5c7",
+               "id": "215",
+               "name": "jsafe00/laravel-s-r-c: A simple package that creates CRUD service-repository pattern",
+               "type": "url",
+               "url": "https://github.com/jsafe00/laravel-s-r-c"
+            }, {
+               "date_added": "13297667835298088",
+               "guid": "b6a5dd15-faca-4ad0-94a1-8a4907ee436e",
+               "id": "228",
+               "name": "Mekaeil/LaravelUserManagement: With this package we can manage all of the users in our project.",
+               "type": "url",
+               "url": "https://github.com/Mekaeil/LaravelUserManagement"
+            }, {
+               "date_added": "13297854161117828",
+               "guid": "ad8572ea-843c-411f-b7d9-16fcedd4b07e",
+               "id": "230",
+               "name": "DataTables example - HTML (DOM) sourced data",
+               "type": "url",
+               "url": "https://datatables.net/examples/data_sources/dom.html"
+            }, {
+               "date_added": "13297980845343792",
+               "guid": "21193834-aceb-4872-b655-300c0b2f205e",
+               "id": "232",
+               "name": "EF Core - Pomelo.EntityFrameworkCore.MySql Provider in EF Extensions (EFE)",
+               "type": "url",
+               "url": "https://entityframework-extensions.net/efcore-pomelo-mysql-provider"
+            }, {
+               "date_added": "13298810513872680",
+               "guid": "9324d7ee-5afa-43e3-aae7-63ba32955fe5",
+               "id": "249",
+               "name": "lucidarch/lucid: The Lucid Architecture for Scalable Laravel Applications.",
+               "type": "url",
+               "url": "https://github.com/lucidarch/lucid"
+            } ],
+            "date_added": "13281968475613878",
+            "date_modified": "13298810940176891",
+            "guid": "e8d29043-aae6-435a-89da-ed583f6153ef",
+            "id": "110",
+            "name": "Pkgs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13277814689082872",
+               "guid": "6b6e4edf-aa10-4ab0-bde8-ae17ff0099f3",
+               "id": "79",
+               "name": "",
+               "type": "url",
+               "url": "https://keep.google.com/u/0/"
+            }, {
+               "date_added": "13274791504099526",
+               "guid": "7b773d25-f9ec-4d96-80e4-df98639b6781",
+               "id": "30",
+               "name": "",
+               "type": "url",
+               "url": "https://cdnjs.com/"
+            }, {
+               "date_added": "13274081236759200",
+               "guid": "b9f8518b-354c-4988-a57b-69e1b4f9bb9b",
+               "id": "13",
+               "name": "",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/category/extensions?hl=en-US"
+            }, {
+               "date_added": "13274081222336092",
+               "guid": "32f09160-3367-426d-9a76-19a8c7f8bd73",
+               "id": "12",
+               "name": "",
+               "type": "url",
+               "url": "chrome://extensions/"
+            }, {
+               "date_added": "13273841850826701",
+               "guid": "658be760-3255-480d-a027-f8c896a3a754",
+               "id": "10",
+               "name": "",
+               "type": "url",
+               "url": "https://www.materialpalette.com/"
+            }, {
+               "date_added": "13279530973137020",
+               "guid": "5e10ee8f-12a5-4650-b9bd-6e9c1f388e1f",
+               "id": "89",
+               "name": "jQuery Get Started",
+               "type": "url",
+               "url": "https://www.w3schools.com/jquery/jquery_get_started.asp"
+            }, {
+               "date_added": "13280128460366735",
+               "guid": "5cc1b97d-7d6a-4100-815b-938946b64bab",
+               "id": "98",
+               "name": "Barcode Generator",
+               "type": "url",
+               "url": "https://lindell.me/JsBarcode/generator/"
+            }, {
+               "date_added": "13280133034048137",
+               "guid": "6093965e-9e04-4960-abae-d43801091b95",
+               "id": "99",
+               "name": "metafloor/bwip-js: Barcode Writer in Pure JavaScript",
+               "type": "url",
+               "url": "https://github.com/metafloor/bwip-js"
+            }, {
+               "date_added": "13280133038655953",
+               "guid": "98107d1c-5001-426a-b295-44d9e6269733",
+               "id": "100",
+               "name": "lindell/JsBarcode: Barcode generation library written in JavaScript that works in both the browser and on Node.js",
+               "type": "url",
+               "url": "https://github.com/lindell/JsBarcode"
+            }, {
+               "date_added": "13280133439608173",
+               "guid": "2ae93e49-55e4-465a-aca9-c775427a6590",
+               "id": "101",
+               "name": "kitloong/laravel-migrations-generator: Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.",
+               "type": "url",
+               "url": "https://github.com/kitloong/laravel-migrations-generator"
+            }, {
+               "date_added": "13282661662592125",
+               "guid": "4c0959f7-a7dc-46bc-807a-2a9f4f64f609",
+               "id": "117",
+               "name": "Code cheatsheets | shortcode.dev",
+               "type": "url",
+               "url": "https://shortcode.dev/"
+            }, {
+               "date_added": "13282722260641678",
+               "guid": "1116a8ef-6603-4818-a232-e8b65e7cbf62",
+               "id": "119",
+               "name": "Google Translate",
+               "type": "url",
+               "url": "https://translate.google.com/"
+            }, {
+               "date_added": "13282835169656619",
+               "guid": "3e55b959-ad84-4070-aa20-969e097ad55b",
+               "id": "123",
+               "name": "lifetimehrm - Roadmap - Jira",
+               "type": "url",
+               "url": "https://speed-digit.atlassian.net/jira/your-work"
+            }, {
+               "date_added": "13285506217713754",
+               "guid": "b561cc74-0ac3-4682-826e-25b7c4e4c9fd",
+               "id": "142",
+               "name": "WhatsApp",
+               "type": "url",
+               "url": "https://web.whatsapp.com/"
+            }, {
+               "date_added": "13285766110866708",
+               "guid": "72bb580a-ccbb-49b1-8d4c-6e6f6e544073",
+               "id": "152",
+               "name": "Icomoon Icon Search",
+               "type": "url",
+               "url": "https://bootsnipp.com/iconsearch?library=icomoon"
+            }, {
+               "date_added": "13285769414557236",
+               "guid": "1d9b8736-00f3-4639-8751-45c08bcf6f04",
+               "id": "153",
+               "name": "how to create weekly mysql backups using laravel framework?",
+               "type": "url",
+               "url": "https://learn2torials.com/a/laravel-weekly-mysql-backup"
+            }, {
+               "date_added": "13285837221346450",
+               "guid": "c3dffb90-1be5-4933-9485-83ba475a57ac",
+               "id": "155",
+               "name": "spatie/laravel-backup: A package to backup your Laravel app",
+               "type": "url",
+               "url": "https://github.com/spatie/laravel-backup"
+            }, {
+               "date_added": "13285837227696114",
+               "guid": "089c1719-4a30-4ff3-9c27-d63c78844072",
+               "id": "156",
+               "name": "Installation and setup | laravel-backup | Spatie",
+               "type": "url",
+               "url": "https://spatie.be/docs/laravel-backup/v7/installation-and-setup"
+            }, {
+               "date_added": "13285927127033648",
+               "guid": "611fdb18-ae41-42ed-8bb0-6200c741a6dc",
+               "id": "160",
+               "name": "Instances | EC2 Management Console",
+               "type": "url",
+               "url": "https://ap-southeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-1#Instances:sort=desc:monitoring"
+            }, {
+               "date_added": "13296936284343967",
+               "guid": "955a3d40-52b5-40e9-b58a-ed3ed41452a7",
+               "id": "220",
+               "name": "Generate Sales Leads with Web Technology Stack Lookup | SimilarTech",
+               "type": "url",
+               "url": "https://www.similartech.com/"
+            }, {
+               "date_added": "13306656780768762",
+               "guid": "d1385655-c3c9-45e8-913a-11a3f9377abf",
+               "id": "320",
+               "name": "BFG Repo-Cleaner by rtyley",
+               "type": "url",
+               "url": "https://rtyley.github.io/bfg-repo-cleaner/"
+            } ],
+            "date_added": "13279530968847005",
+            "date_modified": "13306656783552455",
+            "guid": "7e3c2c5b-c49d-41a1-a751-ab657515e31e",
+            "id": "88",
+            "name": "Tools",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13278938560195096",
+               "guid": "1da17f47-9436-4f51-9a2b-f0b4da77efbd",
+               "id": "81",
+               "name": "The Algorithms",
+               "type": "url",
+               "url": "https://github.com/TheAlgorithms"
+            }, {
+               "date_added": "13280048237203534",
+               "guid": "286a9236-1ab3-4e9c-9f32-a9f4a423245e",
+               "id": "96",
+               "name": "aalhour/C-Sharp-Algorithms: Plug-and-play class-library project of standard Data Structures and Algorithms in C#",
+               "type": "url",
+               "url": "https://github.com/aalhour/C-Sharp-Algorithms"
+            } ],
+            "date_added": "13280048229848848",
+            "date_modified": "13281691338189719",
+            "guid": "5046d648-e523-43b2-8715-dab5d28d610d",
+            "id": "95",
+            "name": "DsAlgo",
+            "type": "folder"
+         }, {
+            "date_added": "13274092686272752",
+            "guid": "ec06dee7-69a7-4a93-ae34-5de13f5a5505",
+            "id": "15",
+            "name": "",
+            "type": "url",
+            "url": "https://880sms.com/Dashboard"
+         }, {
+            "date_added": "13274098927983974",
+            "guid": "3379fdea-5a61-489e-8416-f05d3cf069d2",
+            "id": "16",
+            "name": "SSH",
+            "type": "url",
+            "url": "https://github.com/settings/keys"
+         }, {
+            "date_added": "13274166255495008",
+            "guid": "9b2cdae4-4dfd-4404-b101-d9cb01894794",
+            "id": "18",
+            "name": "",
+            "type": "url",
+            "url": "http://my.bangohost.com/"
+         }, {
+            "date_added": "13274686164659970",
+            "guid": "e4f4f55f-b7c7-4c1c-87aa-710e70ebd4e4",
+            "id": "27",
+            "name": "",
+            "type": "url",
+            "url": "https://martfury.botble.com/admin"
+         }, {
+            "date_added": "13274867028261326",
+            "guid": "83567942-5b6e-4358-872c-39df838b434e",
+            "id": "41",
+            "name": "Active Newspaper CMS",
+            "type": "url",
+            "url": "http://demo.activeitzone.com/newspaper/admin"
+         }, {
+            "date_added": "13282140261996148",
+            "guid": "2bca66a4-b36c-4d74-9b31-a65a50b62364",
+            "id": "113",
+            "name": "Electronic library. Download books free. Finding books",
+            "type": "url",
+            "url": "https://b-ok.asia/"
+         }, {
+            "date_added": "13306221666994501",
+            "guid": "e3afd799-245f-4c7f-908d-2eca12af3b25",
+            "id": "323",
+            "name": "Google Translate",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=bn"
+         }, {
+            "date_added": "13306221564346570",
+            "guid": "10013643-0da3-4b9f-b931-29aefcab2055",
+            "id": "324",
+            "name": "Browse Fonts - Google Fonts",
+            "type": "url",
+            "url": "https://fonts.google.com/"
+         }, {
+            "date_added": "13306221589363424",
+            "guid": "4942db7a-98d4-4726-a3bb-2636e1ecf0dd",
+            "id": "322",
+            "name": "The W3C Markup Validation Service",
+            "type": "url",
+            "url": "https://validator.w3.org/"
+         }, {
+            "date_added": "13306221710810949",
+            "guid": "38b6b5e6-cb02-406e-bb89-2de5628baef4",
+            "id": "325",
+            "name": "Placeholder - Create Placeholder From Image Image - xgenious",
+            "type": "url",
+            "url": "https://placeholdermaker.xgenious.com/"
+         }, {
+            "date_added": "13306221571394784",
+            "guid": "b626faf0-b0c9-4ff0-9bd1-edbfe817c27a",
+            "id": "321",
+            "name": "Font Awesome Icons",
+            "type": "url",
+            "url": "https://fontawesome.com/v4/icons/"
+         } ],
+         "date_added": "13273577996843271",
+         "date_modified": "13306656780768762",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13279542766479038",
+            "guid": "b394773a-f899-4823-a7a6-7e814e40ae0a",
+            "id": "91",
+            "name": "IPL 2021 Cricket Score, Schedule, Latest News, Stats & Videos | Cricbuzz.com",
+            "type": "url",
+            "url": "https://www.cricbuzz.com/"
+         } ],
+         "date_added": "13273577996843278",
+         "date_modified": "13279547682116014",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13273577996843280",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpQCCvMBCIiBAhLsARJSCAISTgoGCgJibRABEDMaEgkAW0mLxOcFACEAW0mLxOcFACIUCX5uHZvE5wUAEBgZp7XNL1G6+cwyGAoWCAIR6F9Gm8TnBQAYACEAAAAAAAAAABI8CAISOAoGCgJiZBAAEDMaEgkAW0mLxOcFACEAW0mLxOcFADIYChYIAhHoX0abxOcFABgAIQAAAAAAAAAAIABI79vombAwcO/b6JmwMJIBRwpFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCQDwA5bE5wUAEQDwA5bE5wUAKayFRpvE5wUAMIDgj7DJ+PkCEgAgASoYSnFYbnF5UG1Ud0trdklHaURKc3liQT09Eu8BCMACEukBChxCbHdGdVE3WWplSThkTWV6NXpBR3VYQVlXVkE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1V2SkpFMUZqNzRtWk8vak5QNGhDR216L2Y2dkFyVml0SnE4TUtiRlNXeUZidHlQMUFtWXdDdzVzcjQ0WENieWJ2RVBFWUVRPT0YACACKAIwlJLF8vL3+QI44ZPajrAwQMCp2o6wMEocdzdLWU5TWGRBaEtnejIyU1h5a0tvMTJsa0ZBPVohIh///81WeDdMNVBjb3ZaWWZLMHp3UWcrVHVMMVJVY0U9ZQAAAAAS7AEIvgIS5gEKHDd3Y0t1OGhpTng0TDB1ZzZycXlNTW1oZHBRVT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVVwZ0lzRDVoSFloak9JckRwTUtBNlhWZlFRZDNNdDY1WkQzUGJRRXU3TmhkbDhyNlUraUw0S3krc0pjdklMajZHUCtYOWc9PRgAIAQoBDCxrciFoOb5AjiIvMjtrTBA9JjJ7a0wShxGdHdROE1BZVl5UEtVSDFSYXY4aUJNYnNWb289Wh4iHElTZFZBYXp0RDBuRjBFUVM1ZnhPM3NRMTlOQT1l4zU7rBLtAQikAhLnAQocY0hTK0FjN1h6REdXazZ2ZjlGQVNvYlRnNUQwPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VMDBWVzBYNGJpcHZJMllWcGc3Z2crM0ppVGR0Zm5IQmh1cndzdW9GRnhNcTdBMjNXend3aXkvdUJveXpVZDZicU5senZ6Zz09GAAgASgBMKGH8f+xsfkCOLj1yuq1L0C+ssKLpzBKHFY1c0Fmbjd0NlpaSjl0SzdYdGd3VWlaSVQwdz1aHyId+jFGdkxwWDJKTmRVRmRkWmFWNzBwbGRxYnJiWT1loEgMihLsAQiwARLmAQocTmJ5a3AyZTN0NkZuU0VPYmZKY0JqTm1jbG1vPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VaklxVW5tSG45TVp1bVMvYlIzeGR4dW9ld0xGalpUQWRyS1NPSEFMWDJzbTVuTm4vREw0c21VNnE5ZlU0LzNpUDM0YWxKZz09GAAgASgBMKTDwJ+xsfkCOJePtounMECXj7aLpzBKHGo4cHY4aXBtQ3V4a1YwR1VhdXhEWnRCdmhFTT1aHiIceHhGZWswcHVueWVPNUNmOUU3bExqZytCQ2RjPWUAAAAAEuwBCDoS5wEKHHJhazRsZ2ZFOXI0VnhyUXJjc01Kdmw1ZlFscz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWZwanZSWlVrZ0R4YXUyTVZBZWxNM3FSaHpKTUR5VnpqQXdId0VpNVBPc1lpMTIxY1hwMmg2aG1mMmMvNEFFaEdrbmNmZUE9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShxKRGtnOFg0OFRwVHRRYW14WEQ5ZnltRWs5aGs9Wh8iHepZenpSU293Qmh2Tk5ZYWZWbTRVanNva3RNdFk9ZSjQ4akS7gEIvAIS6AEKHHJtUnJGc00weHF4YWNudlN4YjVKeDcvMndsWT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWNjUC9oQmszRU5hR2I4UjRrazBzakdKNXFQY2tnSmNsd3BEWG1NbnNvelljTUV1N1VJbUpjS3FvQXFFTDRnR0EvWUFsaVE9PRgAIAMoAzCN3PLd5d75AjjR2bXzrDBA8e+186wwShxXL2d3SzAxUVVTeldMSmNUYWJPUVRqemEvT1E9WiAiHv+5WTg3WXFYNGVxOWwwdzM4dzA1WlFmZTl0aVUwPWUo0OGpEu4BCJABEugBChw5VEhIK0JTdE9Id0FMWjRRMzZCODRLaXZDSEU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VMWFJzaDdNRmZjMmhoOVp6RWlITEFYOHNvVzF2UjdZREJKckVPMFc5VStHTmt3ZWxic0dlU09IOEZvWGdrN1BqMm9DOWd3PT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocQWJhMnNtM1lXa2IyWTJycS96NGtPQ3c5ZTlnPVogIh7/tzFFMTFGUnRMbE16bzVRNnZRMCtvblJqaE0ydz1lwpwsdBLtAQiPAhLnAQocRXQ1MzU3bndsVEJ0dVhQUWJVY3F0N0JUaGFVPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VaC96cDVoaUx4SnpNZVdyanBxR1hZTm9OQkg4dTNaak1CN3VCL2poRDZidnNMY2VQdk1hbnpBaTUrWmxFNXFlNUpTY1EwZz09GAAgAigCMKTDwJ+xsfkCOJaPtounMECUkbaLpzBKHEFKSE5XdUMyR25jWFNJeS9YNkUwSFdqM0xRTT1aHyId7GkvbTFPK0c1RWtnMFFWUHhWZVhpSCt3ZTBPbz1l6mHTBhLsAQhIEucBChxyUnR1QWNEejlkV2gvakJKUXB6eWwxRnlDdms9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VXYjhvQXNBY1NkK051ZExqVWtjYy9MYzI3em4rdFJLSDNJT0cwbmNQS21IWkUvWndGcWtLdXJEL1RFRlVIZU9WbkhJVlh3PT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocSDZZN0ZXSHU0MGFVQlVpTzM5R2ZFd3hBcHZrPVofIh33Q2VLMms2ZFlCdWhtT211ek9MQjB6Y0JXV0pNPWUo0OGpEu4BCKsCEugBChxyMVB4YlJKNVdTdEdVT0dxZmYyb1JwTDRhaUk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VYNDJ0N0JPaU1yNlNhRU1kTnVQZ2JtSTlHcStHOGk2SGF4SXpRUWlvZW9iSmV2Qk9CK3FpdCs3eG5zRmZCQmZ6YXdqSGNRPT0YACABKAEwoYfx/7Gx+QI47LOn88cvQMKywounMEocNm96VW9HbHZjVHB3aHVpM1RPZGpRcDYrNkxNPVogIh7/7mJYcWY3UlFneVNiclp1d2p3a1JZUFRia2VFTT1lOPk5MxLtAQioAhLnAQocOWhwRVZwSzBsRnJTbTZGV0dYdVpyMnpZa080PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VclZXM29YRnM3dkE4QUlVMk8yRncyaDdKWEF5NzFIc0w5QUU5MTdqM21lc2pMc2RuM25MeXgwQkRFTmZpdmpRUTVWeTNVdz09GAAgASgBMKKxn5Cc5vkCOJff1cK+L0DVn4ntrTBKHGtQWnNKWjFWQXNsOGxxSHkvQmJySTBhcnJFYz1aHyId/3RxMEphY0pXWGhxd3B2dEVjWlIrVWkxNjFtUT1lPWyFERLtAQhVEugBChxxcWhRakxYUVJIb1l2bmNkRXNJelNObEY3RHM9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1U3QnNaVFJNVjV3dWJtS3NJejhmbGJWN0I1T0lLQ1BsbkNLQ3Vaa0F5Z2hYa2c5djZhZ0NJbldlRHJGYWQ5UzNraVNVOSt3PT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJWRtounMEocbEQ2NDlnZllBOENlVy90SW5GZVRtYitIV2ZNPVogIh7/+2JidTlLTGdOUUJnak1nVVdvRk5rdGxzbnVLYz1lD8w0FBLsAQhiEucBChw2TjVRWnI2ZG5QUzZkSVZMa2N5cFhnaUFUUjQ9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VhcXdLZGxPWEx6UCtielYrYWNSazZjZXM2U3ZLTTNudms1VnB1SmsydEJHbFFST2hFbWF5QWJ1SlNlbTJYellsc2pKSlFBPT0YACABKAEw5q79n7Gx+QI4mI+2i6cwQJiPtounMEocRDUxTHJiK3hOb2RycVlFYS9Zc2JUNXZBcG04PVofIh37c0hIdTVrakNxamY2YVVFNnJXbWxGcVVTTmxZPWUAAAAAEuwBCEMS5wEKHExINTBsbkpobWtiNjhYZVVuREdpWjc2ekZTZz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVB6bng5Snp3b0hBTWRKN1VUNFc2Yk5GTVpva3hmN2FMdjcrek5Vc054blBvTkRGQlQyL21ENjFLZ0drYTZQOEZjczBibHc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShxFNW9qM3l3blk1azEyZ01yZDNlcVpxMlhibTA9Wh8iHf9YZng3K0pTQ1pXNzI3R2RxcUR1MVAyaEF5RXM9ZWUVzyISqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5VGcyK09Wc1hCelNHNHM5b1IvMkZoQ1V0ZmllemREMms2ODQzU250Q0ZVOUVWRWowRVJYM1JjTjdJOXQwNXF3ckFybjJ4GAAgACgAMLmCpJ2xsfkCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7gEIrAIS6AEKHGdXNTRhRWV2K1RKVjJxeW82WW5UZTlwTUVMdz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVJaVXU1Q2xtK0Z4S1p1TGQzOU9vNXZMQjZURHJZaTc5dkRjcU93MUFMTmU5U1RCTEpOakJMeGpsdHBzdEtKdWtYOEdQNmc9PRgAIAMoAzChh/H/sbH5Aji8pa7Kzy9AxLLCi6cwShxpOEcyUDA5THlYWjNuNldoUEpBM2FqNTd3NGc9WiAiHv/3VjZyUmV2SWZXTXBQMUJvQ01HZXRqNGwza0pBPWUY3av/Eu0BCFMS6AEKHG9McjRlUDAvWkluTVZOaHdiVHA4V2lrKzBTUT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUtHMGo4SXJaM0Z3dHQ4NTVOc2VQTmRpUWhMWVdZYi9UV3d5TjdQK29EajFPZytyYzB6SElCd3BHMFRNbDZHTlZZK3JuYWc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShxqTytvTkpMYkRXditra3huVGg5cFQzN0lpZ0U9WiAiHv/2QXVyNHMrL1FjKzZvcUg5dCtweWtlSTJnTEU4PWWBywdyEu0BCEoS6AEKHDJQQlVZRWZPN0QzME5zdERJQk1YbmIycHd4ST0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTk4dDVJdnc4TVlwRklRa0pPTFVjc3pqemJRbW94c1BMN2hoSS9DOHE5QmZLbTVNTmZ1a0NuZHQ5WHpaUFRDdmxzNG9Femc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShxlYkJaMkdod2k2eFNpeENxS2RGKy9mSlpJcjA9WiAiHv/ZenVwR05XRmVwZmhTVC96WUJQUVlnLzA0RWVnPWVvoZxeEu0BCIIBEucBChxiRmcxTWxKczdZZExJM2NZWWhISlcxUis4blE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VtNmZBQzZiYkxmb0RoZmxsc1ZNekxhcXM2WElLUXU4TU50WnFGSUQxQXNJVk4yaTdQb2YvRE1ON0QrdEE4MzR5NmVubVRRPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJSRtounMEocOFRWNjJqNWFITmVrRkxiTW1rd0Q5VnIyTHZ3PVofIh37NFFhUzBqNW9OQUoxMGR3c0d2NU5DbGFYSnFVPWVjj647EuwBCEQS5wEKHEIzdy9rWEdNMVFRN1NxYUY2VUJMNUtuYjFxMD0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTdobVJodXlXbjhiMFBFUzY2cCswdlpJVCtIR1dZT08yejlLTkxKMThuSmoxbXNPKzgxejNjc0cwdWwyK1VpeU1hRE5qUlE9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShwwekNuRjliYnc3bncySHhtbzYyZnhSWEVJSVk9Wh8iHf9mN3I2MG5LcnZIWFlaZSsycDUrNnhIOG1xZlk9Zf2V/j8S9AEIWBLvAQocVXdjQ29ZRVVvNWdSQ1pzWUFpNHIzZncrZmpjPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VblpoeVFIRTRIc1YwbnhhejJOOXBSeEt2NHFOZFJmUGdISElmdGdZT3Z2Q1RyZFV2MGo1czM1bDRienk4U0I2OEtKaTNtdz09GAAgASgBMKTDwJ+xsfkCOJiPtounMECYj7aLpzBKHGlKMm5vWWRsR0xqNE5NSmJtajgvNmt4L3Uwdz1aJyIl/////wAAAAT2ZXd5ZnJKajRlbEhYUitlSVJDaVBtNWRRbHE0PWUAAAAAEu0BCJQCEucBChxIRzM4VElCblpmRlBWSjFhNVg0YzF2WHQvejA9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VHNmNGRHFwSEtSKzh6a2dyRmFtVWhHZjJpQVowand5R1JTRG9ES2dlbHRhNERwR1VWSGQ4Q0xCWlZrMXhuQkpCdjB5V0ZBPT0YACACKAIwpMPAn7Gx+QI4lo+2i6cwQJSRtounMEocRGJrOEZ6YmVJS0xZMGlZM1Npek9aMjdPcThVPVofIh39encyZHlWKys5eDl5THBKVGw2S2krdmZMSWpzPWWQNs2gEu0BCKYCEucBChxueHBCdlFEWXEybjFCMWNYTXhTZnJ3Ni8vdjQ9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VWNXM2MG1vZHFBV21MTGVQZUZkZVpMeURSM3kyQlRtTEJpams3Vm9RU3VnWHhIRVVGamRIb0ZMSTJFMXIwdFdWQlJicHlnPT0YACABKAEwoYfx/7Gx+QI42v6awoQwQL+ywounMEocSWNiSnhJaDRoNXpZSC9CdG5haHFIYUNDODkwPVofIh3+cjJWNDhyMFJaMmcydUZaQk9BdVQ3cDlheUlnPWU4+TkzEu0BCKICEucBChxybjBPRDJ0NDRSTWJjMzc2VVlNeHptMFkzOEU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1U4ckxiUkVycHVjWUtRU2tVcmwzYnprS3U2ZktQMnRhTC93N3JHaWZDWjEybktVcHFVTFZ0SENKK3JXZ1kyd1BPL3lpWFN3PT0YACADKAMwoYfx/7Gx+QI4lsDI+t8vQL2ywounMEocdnlIbGErTXp0MnE5K0tnZU5tZ1JYa0Q0eEw0PVofIh3qZGRYaUlmQ2Q0dHk5UDlsd3BpeUpsWTluRWlNPWWmGWw7Eu8BCNEBEukBChxoc2ZUemhMZDZqUkxPeVJRa0FDOU9qR0k1WUU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VMbVMwSjF4c3RLWnVHV3FMS3A0U0NScDlCNDB3ZVpIQys4VitNWTVycmtPNW9PNHowSkZFS2hrUDJPSHQraEJTdjZKQUxBPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocdERSZmFPOGFzUnVqL3NZNXZqZjRadjZKcXJBPVohIh////srRFFDU2E0NnUvb0JCVXoyY3pvUnkvN0Z0aUE9ZTj5OTMS7QEIpwIS5wEKHGljUDR5K0lQYkNjcDllV0lwWVJlRHJYc3N4bz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUNtdDB4Qlh0b0FDZzN6UmVtSzg4OXNXaXArU3RpQ2paZ2RuUXlBaXNHa25yUVdzTUoxajl5STlUYTlybXdNUGNSS1lUV3c9PRgAIAEoATChh/H/sbH5AjjEw/jPuy9AwLLCi6cwShx0Uy9JNkZJNXNPU3c4b3dkMnJHZkplMWEvM1U9Wh8iHf9WeE56MndEL1MzKzA4UUdzQmUxVThuTnR0b2c9ZQAAAAAS7QEIowIS5wEKHEcrOVpXMEZ2M0RUWkFQVGZGOGJsNDBVVGFhaz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXRPeG5NazZGekd1NWdHRFAwaC9heFE1S3luVzByQVZUbEZiTzQ3OTE3VGlzTGFFTHY5VkY4VXpXQlhONVVSdDBQRXFRcUE9PRgAIAEoATChh/H/sbH5Aji49crqtS9AvrLCi6cwShxDR3ZMcW9NNTZkNnJlcUlNTjZYMnZHa0pGRVU9Wh8iHfV4NTZmMWtVT3RyZnd6T0IyT2JaV2NoNUpsZVU9ZcXPkAES8AEIJBLrAQoccUJST3ZKTUhYZFlFZE9TMWdOVHd1NlU5S2U4PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VOHZiUXBTbHh1R1RwQy92Ky96dUVBZUtFQ1NsdDFHaXgwL1hLOXZoTHNCckdmNU5WV3ZHdkcvWVZadHF2YlBsMHZaTnZZUT09GAAgAygDMP3c9djJ+PkCOJiPtounMEC0yOiZsDBKHE5kRmJ3Qk9TRFNvb2F6aFVoOUQ2WCtQVExrMD1aIyIh/////kx0Qkp6NlIvN2lyem8zRysyZjBVMFRON2JCUG89ZXdYp1wS7gEIkQES6AEKHEt4RERjZGQvczd6cDB5MnVoRndVa3NlRmFwMD0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXkrVVN5L3owSG54YTJ2dWxocDI5bm5PR2hkS3J0NUpMRjRSS1l0NEU2b3dqZXdnaDJSTXhxMlBoQmMzT1RvMkRVZVdlS1E9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShw3YWFlUVFWaERqZmFDdysyQ1NmM1k3eVNBdTQ9WiAiHv/bbnZkUzBhYjBrc1ZiL3lWdzhpL29sRnE0T1dJPWUSfJeyEuwBCDQS5wEKHC94N0FnQWxOeVpHV2pVQi9rV0xWaDJ3d1cvST0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUd4TEhZMnJMeGo5TnFMcSthK2hNYXQ0M2Vvb0kwQWZXbFVxVjU0MTZCT0RBZXB3b0RySmxMSFlzK013OW90SHZLTWJERmc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShxoL1ljM3NwVWhkQ0szN0hMWHJvckpyU2IrTzQ9Wh8iHapDS2M1c2szMDArTGh3Z0lJZUhpb2ZVcnAyVTQ9ZVBOfOoS7QEIexLoAQocL3FXZ01vYXlRczZ2UUJ1cDNmMUNFZUpNTW1FPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VdnZzazRzK0lwejd2d0lXWmhoT3NMQzBUM0ZFT0VnTmdQdkxpMERMcHk3aGJreHFpS20wZVlUY0x3bWl1bEt4bEdtcTVLZz09GAAgAigCMOau/Z+xsfkCOJiPtounMECWkbaLpzBKHDQxNmdmMGxBa2N6UzFGWkUxb0hranMrUm5ldz1aICIe/+8rUlhSeDZiZWY1S3pPMlpMaElIeFhyZ2pQTGM9ZTiPyBAS9AEIEBLvAQocYzY2dUZ2T1hRRHh1VW4zQUZ0SWNDblFHSlFjPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VNnR1R0FoN21YRXpyY3Avd3h4ZU5XRkk4aDgwUjhLS2E2dStkaHA4TjhXaTU5b2xGUCswZ3ZEdUVsbXUyNnRKV2FhT2dMQT09GAAgAigCMP3c9djJ+PkCOJiPtounMEC0yOiZsDBKHFEzMjlOOVNST3lOSXpEQU5GZ0lpem56Nnl0VT1aJyIl/////wAAAAXeYVB6Q0xqV21jUE9udlltRFd6UHk1dUZOYkE0PWUo0OGpEu4BCMQBEugBChxHVm5QZDZZNHp6a2UrdVRwNXhOdENQK2hxVUk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VhN0Y0RUdadjBIYjhqVnVMbTREcEhGYkVuSFAxaXExUk5mQ0hISmh5R2Fwa1k5N0dGYXkycXllbmk3U0xHR1Fod0s2UXp3PT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocc3YwcWRqVHdjQjVzU0pFUEdHZks4TUtMeUowPVogIh7//0ltRUxsZUg1V0RpZTkvMVBsZ3NwckkvendzVT1lztAeixLuAQixAhLoAQocT3RrMmNUK0VCd3VISmdDa3ZyUjlXNElPWGIwPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VaWpBbXBnVUFQT0JPeDdmeElXV1huUXdwT2lQL1dIZDVOSUlaOXg3QkUyVkkxTy9aYWdhbXRNOHUwTGhGSGZ0K0pORldYZz09GAAgASgBMKGH8f+xsfkCOP+9tLCEMEDHssKLpzBKHFBpV28yanczanpOMkVXOFdFRGpGZ1VaSUx3WT1aICIe//9JV0RhcGRzaFdOSy96MGUxYUtGMml1MHM5SXM9ZQAAAAAS7QEITBLoAQocYml2VnduSUdWRkJnTGJPdG5GZlRxc0xXNDg4PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VamU0Wm9BV0RlM1VBdGYwTEs2OFlydEVPZmtsSXNZTS9EK3BFWE93TDViRWdJc2FhcVNpYUtrS0lsTzdsSHJ4Z1B0b2k4Zz09GAAgAigCMKTDwJ+xsfkCOJePtounMECVkbaLpzBKHGlUaENUQmg0MDR4R1dwc1ZzYmIxQUg5RjNwOD1aICIe/+xwSmNiVytaMHkxSytZS0V4ZG50UURScjI2ajA9ZTPGc/cS7QEIhAES5wEKHDdVWmJLT1haa24zS2IydUpjZ0ZWRUVxZ2RvYz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTgydHBRWUhLTHRVRnMyMzZzNCtzWUsybms5ZExrRFY2bkF6NHBKZDFEUnpKTW9WeWk2c21lcHA0cFZ5TURTQXdqMTlzcnc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShxKN0pvUVMwRG02bVE2L1VZbGhQL1hsQUF4Sms9Wh8iHf5GdmovV2k0K3cyeWRQalRMdmMzSkcrVDBvU1E9ZSjQ4akS7gEIqgIS6AEKHGt4a1ErdjRjNzV4MVFEWGpIanRXdytxemI5cz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUxIQTE1Yk1DcXpRcHphQndYUDlnWlRrVmVEbzRoWiswSkNuTlZmTi9WUnZtaUZCbW1LTTZBR25UODhBbG9lY0g3eWJZVXc9PRgAIAMoAzChh/H/sbH5AjjpnZuaxi9AwrLCi6cwShxoSW93NWE5eDJJYXEzNWZNbXR0K0lCbWhubms9WiAiHv/dUEVjMDRBcVJRcVkzSWpsSXphOUlzdFMvbFRFPWULy7W2EvABCGoS6wEKHHpsMUV3TnhOSm92TkFhN2RLWFRoWU9lOWVpdz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTM4WXUzYmhuSlEzdlQvbmlFWVM1eHh1QldDOE1SaWo1WFFXLzZGeDlZWHdaNkYrbVNnL3ExakdmRXVBeTF5bmd1LzI5aHc9PRgAIAIoAjDy/ouHoOb5AjiYj7aLpzBAs7PJ7a0wShxWWXBqN3liQUtRZkl4Y05hbVBzWm5hV0d5Wm89WiMiIf////5gdnNoNGgxUnU3c1F5ditXTG9Bc3huOVAwaWxNPWUAAAAAEvQBCG4S7wEKHDNGZzYrdXhBQ3BZcXoyWHFGeFR4VDhYSElQRT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVRTSFk0cEI3QXFuaTErZVY3V21Lem1rNjg3UlY4L0x5YlZja2dVMld6NXBvOGV4K1BQR0xlbm1WTUk3aDVvaU5DbUVjQ2c9PRgAIAIoAjDHga27srH5AjiXj7aLpzBAjYHKi6cwShx2amlaS3dMa3FFbGtVd0tVVS81a0JGQW42STg9WiciJf////8AAAAE7TR0K0krall3N3p2ZnhRMXdFRC9Ndmw5QlYzcz1lAAAAABLtAQihAhLnAQocN0s4QmVHV0xjVm9IQ1pyYm5VUjdUTHRHK1BBPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VbW0rWWpmZXJCREt2ak00OTVsblBFN0hFSjc3TGFCZFYwSWwxYUlMVHdHdElMSTRGcXArWEdkdUdJSitzbW10c0ZVUG1aZz09GAAgAygDMKGH8f+xsfkCOK29gYjLL0C9ssKLpzBKHG90MHY1R3ZEUW1uVkhzZFJab0d5UzYzUGMrWT1aHyId1VF2ZjdVS3pRd2lXRHpGRC9DSG9PdUIycmJwbz1l1WttvhLsAQgeEucBChxrMGQ3MU5Gd0JYVWRJT2Q4YjRIN1NId2UwTFk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VQVkhxeTQrRFE0RjliUWFrYmZXNm9UcUhtSzJVSlo3SWZDWGJMeXIxbXhDVURFUjdlcmdqYnZCOWp4SC9nMVk2YmNKM0VBPT0YACACKAIw7IHipbKx+QI4lo+2i6cwQMqfx4unMEocbWhWYTYwbEIzQVNuajVJQTlqRjNlU0tFRk9RPVofIh2YMnB5b0hpT0dyWUQ0QzZXaGdFSXR4Z1d5QlNZPWVZKKjQEvUBCP0BEu8BChxhR1BHZzFxcG1nay95TmluYnhQM3JlOVdUWlk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VYNmtISms4ajFsTTJSWXRXc0dwb3kxMmZHdmRZVmJBUE42M3dPRFdObDFHRHJtbjgvakJSVlRjWUJ2bmVjRGZKSXRVS0t3PT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocZEJRblpZUGU2OHhLVDVzcWtlSHVwMWg3bEN3PVonIiX/////AAAABOwrR28rMXlnMXdDMzJnUThGelp4eGlVK24wdDg9ZQ/MNBQS7gEImAES6AEKHEphT24vYTdTMXlMNk9CNE5Gc2ZFU0syOG1FND0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWE3cEtmOGZYWDlBNjcvVGs1NCtkTXFYVGVFMHUxb0lZY1lHZmFZQURES2FhSXh3alJHSkhJUGlUWGNURENYQVpJalhxT0E9PRgAIAIoAjDmrv2fsbH5AjiYj7aLpzBAlpG2i6cwShw0WmZWNHNZM2VSeDV0NjljTW03WkNPaVhkNG89WiAiHv/7ZHU1TndJTkNZNWRRMkM0ZUN2aGNGMHNkMG1NPWWa+wgYEvUBCJkCEu8BChxjbEgrMlZFbWFnM1AzRjhJcFNNQ0N2eW1mYkE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1V2aG4vUGdZYVB2TFVEd2ZnanZXT2FTaDc2d256cDRPdWpINjZTSC85Sk1ZVWFLWXRUZFViVDhpYjNJVFU4bTAzdkpBQ1VBPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocQk9uK2Z6UEpPcXd5ei9iU2NJb3UrOGFjYkIwPVonIiX/////AAAABftrT0ltNFFUZW4rdyt0K2hweUE4Yzl1T3dJZVE9ZRDNpdgS7wEI2AES6QEKHGpyM0ZqQjVydmNGUmNxckc0Q2tBT0tNS2NlTT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWhpWngxcWtwQlFnc0hGa1cwNUFKcXVWVXlMWktMQkdlK0tMTHVpVFRSblpheUpaNm1XWm5jeEw2bC9ZdDZKK21aOGYvV3c9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShxpZU9lOWVQMEhlQVhYNENjVkp1VytLSWw5cEU9WiEiH////3NjU050cTJTTlBZNnpXUUJmTDVoKzRPSm5SND1ldJ/R2xLuAQitAhLoAQocc1Y0RjV3OWFUV0xadlZNaXE4QUNWNDhvSUQ4PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9Vci9YN1QzUG5tYXhLSFpjaFJDZHROQWNHMXE1MzdnYlJzRGJjK1dNaDNQZ2NPWlVsSURqU2t3a01xQzcwMmd0MktJTzRoQT09GAAgASgBMKGH8f+xsfkCOJX/gfDQL0DFssKLpzBKHEgrQ3A3a3kyNkxXamRiUng2QnpPbTJBbDR5RT1aICIe//tEZjh3ME8vL2lua1hjc2JsZEgrUE1VSityTU09ZQAAAAAS7wEIugIS6QEKHG9nMVFnMnc2OUxKMFpJdkg4alJWQjZ4SVdkQT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWlOdHl2RUtpblA2Qk1FUDE2SnpKaTNHZnFjT0lMYkhEemU5WFZ6anByQUtWOHRYMG5LVGRmTFQ0My8yZ2dyYzN3bGhTWHc9PRgAIAAoADDyzoO049n5Ajir+JmhrDBAq/iZoawwShwydTRScG1xakk0UkYyU3VDclF1S3cxcGJjV2s9WiEiH///rVg0OSs4aFE3b0QwREVqNWphNG5oWms5VFRwZz1lCNLtYRLuAQiuAhLoAQocdDlIOFhIcW1nZk40ZkJVcWRoaWpNRUFad213PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VUUttVFZLNUdOMGw0Yk84WVBKSFdXL1hKUnN4aGIxRkVHKzRjU2JjWE5EcG1wU0pHbFdmVys1MnlrRmIxQ3diZkxzT1Y0UT09GAAgAygDMKGH8f+xsfkCOOmStuPUL0DFssKLpzBKHDZwNnd6cTNSb2ZVS1dEMFFRSkZsbG1VYjRIST1aICIe//1xUGVRR0pURzBEdE0vMnIyOGl0a05CL2FoMHM9Zeal+6IS7gEIrAES6AEKHHJ0L09RM1VpVml5Rkt0UExjeXZFQmtVRjVZUT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWFpeVJ4SkhWVmQzYmUvTjY3cXI0ZFlEa0tSRkJYN1ZnNmVLQjVRVzRRSUNGOWpPY2FWMHJ0RVYvdEFFMFFwdGhHYWlyN3c9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShxkM050TVRDZnl5eUVVUXlYYUNReWVDTFQzMXc9WiAiHv//d0JTYmxzNTUvK2Y0MUxnOFp1dzhYWVZRbnZzPWULy7W2EvQBCDIS7wEKHFhGUDZKR1QyL1JxMmFVT1BCRGs1dzRQSGZNbz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXp6YjRxZVBRV0M5UUNNVjFlamRhRHcwemhaaVRMTjBoN1lnSnlsb0ZhMTBQS3VTYnZTTkhLNE5rVU1GM2dyMEo3U0FVMUE9PRgAIAEoATCkw8CfsbH5AjiXj7aLpzBAl4+2i6cwShxCRzZjT3ZHcVE2YlZYWlVxdUh1TDlsTHR5clU9WiciJf////8AAAAE2nc2YzduRFBCbGRmRi80N0ZTMDBKWXU0SHNyMD1lAAAAABLuAQgvEukBChxPMnRPVlNqcEZEY2JNKzJ2cWo3SzR0Yy9abDQ9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VVbjNEK2JuM3oydjRsdDlZaDM3NC9Va2ZjVkhTU0JBY2lYUWhlSFowR3NqNTcwNk9RZnI4SGo2SVc3UjNmeTVkQ09hRWlRPT0YACABKAEw/dz12Mn4+QI4lo+2i6cwQLTI6JmwMEocR0JzajdocHl2UDhDRnZXWEJ4Tmt3Ynhxa25NPVohIh////0ybStOb1B0M1NJYUZuRVVnWlZFZ3hmMVh3b1k9ZerwjOsS7gEIrwIS6AEKHG1DcTZuTVcyTXdnR2NZbVl4MmJNdjZyL0F0dz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXRud2JqQWtnMDVEQkMyZTdGaFAycCtwakloalFDTEhyTGMyeElKczZKckI5Sm9YNTRCay8wL0d1dGxWMWxVVktDRTdTbFE9PRgAIAEoATChh/H/sbH5Ajjhnd3u4i9AxrLCi6cwShxzM2FBL3BuT1pKZlAzWWZ6RU5nUHlqVDdvNEE9WiAiHv/+VkJkSUNodEtUWXg2ZGhzQ1JmOVAvTVFGSEZnPWUAAAAAEvQBCA8S7wEKHDA5d3JhNzdIT1Z3Qk9pV2l2aUZ4YjFMTnR6bz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWVPOFpKbE9FOHRGLy9kZHpmQjFma2NtUy80QTdpTURObG95OFdHaGI2NmNSMm9CMTBuVE1VR2h6ek5CQVBKK3V6TU5NS2c9PRgAIAIoAjD93PXYyfj5AjiYj7aLpzBAtMjombAwShxQTHFNbmtYWHNBTEJUZmVTQmVXNWFKVEY1eXM9WiciJf////8AAAAFvXB4cXdwUmxjclBueUdsVlFOWW5abzBUNEl3Zz1lB8rSMRLvAQi9ARLpAQoceHIxckl3RW1IcHgydnNRUHV2d1hKcThzNW5JPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VWXp1WWJZcTBacVNzMkVCcHo1UnZzU2RGT083R3ZWb1pOWTROOWxFUzFOTFJ5cG95ZzYwcG5raWxQWUpsUXJWYjQ0YWJuUT09GAAgAigCMKTDwJ+xsfkCOJePtounMECWkbaLpzBKHEduLzBaQ0tXT09hRU9jaS90Z1gxS3NIVC9sQT1aISIf///9WEhOcm1QWkFwcVBlVmRETXZRcXdyWGt0dXQ4PWUo0OGpEu4BCKkCEugBChxCeHdpNTVMZ2lDeEdwamNPMmE4Q2xHV2I0YlU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1V0VGtnUVJNVnRHeUw4QjY2KzMrWXVKWmdMUjQrWnFLMnFYcXlwL2k3N1I0L0M0VFVZK1JyVlJRdnFZQUhVL2tGVzRFdTdRPT0YACADKAMwoYfx/7Gx+QI4mN/Vwr4vQMGywounMEocaDRCSXpESm5WMFB6cXdObFNuM1ZiMXoxNmlvPVogIh7/ujZFbis3ekg1ekR4TkZQeFhMMjA0Mnh6OEZRRT1lXfVSChLuAQiiARLoAQocVHZ2cUYrMThVRjdWVUxZSElySm1US2pZOW04PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VaThoR2NKNi85UVFRMEp6Wks1SEwyUzFFYkVGOXF1MVFEelRaOWhOZFJUSGZTZkhyRk9lb3NBMGwxd0ErV0JYUDAyemF6dz09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHGwrSzIySG9qWitZekpQRnhOVmxRZFBKOFEyVT1aICIe/+laMzlVRWZmbi9yU0ZReVQxa2FSaWVkODRRSlU9ZRIN3qUS7AEInwIS5gEKHE8wVjRvY2c5aTB0dVdnZkVjT1dzYlViYWVrVT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVhlelpzQ1J5K0tvZHpzRSs1ZXJUWjhwL3BNR2F4ZnJJY2VYalZrNlUvUE0zQlN5REk1WG1xc0ZIR21YOFF3WWdhdzUzVFE9PRgAIAMoAzChh/H/sbH5Aji49crqtS9Au7LCi6cwShxVcEk0a1hzUmZ6NjlXdDdkZk5GWWJkSEJ6ZHM9Wh4iHFZlWHB6cW8xN0xvMnpWczFlZWQ5QlFKaDhvTT1li6CM0RLxAQidAhLrAQocRUc0cXdsTVJWT0JKYU5tcEtZWlNxRDhUTEZjPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VbURWVDd2T2s0bEZScnBtKzhtYnExWmFlNERJYzFmNndyblBVa2EyM254YnExUGxVMGlDcWR3MmVPTUs0dWVSQlZsd3dmZz09GAAgFSgVMP3c9djJ+PkCOJaPtounMEC0yOiZsDBKHGx4S1pCN1ZNMUVKb3hMWHd6aktZdXViTEQxST1aIyIh/////lJ1NG1KbzcyQUZpeVozMmsxdVhLNWs4TWlqU2c9ZZxXC0US7AEIbRLnAQocMC82V3A2MVo2RU9IaGRtaW4yNmNRekZyRmlVPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9Vb0FIeGJoRjMzODM5WjlHSTh0U1ZZNnh5Y2NrdVhyZ1UwaW4vanhnbDhaZUVKNVpnV3l1UkdxdVArMXp5MUh2VUJwRmY5dz09GAAgAigCMKTDwJ+xsfkCOJePtounMECWkbaLpzBKHDFVUmV3K2xmRGJub0ZWdlE3UDVSajhzM2hybz1aHyIdvDROM1Uwby96dmcrU2s2RThrN05kV054cmFIaz1lKNDhqRL1AQjFAhLvAQoceXZEWnVpZ25Mbk5ZT0JuMCtwSEF1VVNUSUlJPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VVE9vVUFWU2x2M2FRM1lwZUEvZUordVdRbVdIcG1BQkVHQjlRRlVQUkxEdGhDcHNEVmhoOC9pcEVwSjREMGNGMEV2K3pqQT09GAAgACgAMP3c9djJ+PkCOLK+6JmwMECyvuiZsDBKHHc0M01ySFRrVUNWUklXNmRrc0s3NkQ4b2dQdz1aJyIl/////wAAAAa6NjRDRStIOVF3b2NmSGQxK0UrZTROeEwrUFRjPWWMr3pDEu8BCLoBEukBChxBdkgvanpkU2ZHRUdMMDh4Q0hZOUhyS3VuQ3c9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1Vva2czYU5BT25UT2lIdVd4aVpWSjRLd0ZUTE5Ec2txMitwaDI5RjVieXBLeUhRUzdJRnJlT25Vb3JRb2FkZldVa2p6cGxRPT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocNi9TbVJ5WHEyWGhYeXByeEpzUVpMVnlXVGZRPVohIh////c4bTNXdG93S0t5ZThMaVRlSlFoTXR2cjhaZTA9Za2nJvYS7QEIkAIS5wEKHFNxRnE5TjBqemhvTFRiTmJpMDU2Y3lET004WT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWRZSGhxYnRiTXF2SHZiV2UvT01iYzhNVkc2YUdlOVUwSVhRMFZiVTJjZW8wdHgwVkZZdHQ0aWQydVZRWVRnK0tNdEVZUVE9PRgAIAIoAjCkw8CfsbH5AjiWj7aLpzBAlJG2i6cwShxJb0tYQ29BUTJPTVJZZmhwZ2JRVEl3R3FXWHc9Wh8iHfYzYjdUK2RnQ3VIS09aeStNSUExUDlwMkxhajg9Zacc0hkS7gEIowES6AEKHHBPejROUHBjN3k1bzJNcE5ZbUROcUI3b1AvYz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTlqSHA0eFl4YTBteVRDNWhXRm9ybi9yRDlBOXNvREVIaTY5TjhvaHd1R2lCbG5UcWhLNXp6bE1nSS8wZWhzbWp6Tk5OUUE9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShwzaVhrT0VldDM2djVJRGMrUnVHZkl4MEQ3WVk9WiAiHv/0RzZ2SGNTYnI1T1ZmaXlrOC82UWdPcXR3TFpVPWUPzDQUEusBCHMS5gEKHDI4VGlqYVM5cUVhQzJzMk5NN2VROHRQbnZWTT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXB6SWxDNmRZajVFL0lyVlVhNmhjSWJVaE90OEJXOG1vaDl4VE9xQlk3T001VnVIY1Vid2R1ME9BSFFqQ2I0dnAvUFhseXc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShw5M0loNWhlV3VMUFE3SytyTFp1eGdBQWF4a2s9Wh4iHEUwNk1TMllnWFB5bzA4VTdtNTNvRUt4ZU9MMD1lgcsHchL0AQiEAhLuAQocMXF3a3pjaldkZzY0c1Z2QkRvTUVtT0NvRXRnPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VVWp0cWRzb2piOGF3U1l1cUVma3VxZWlTSHFkMk5XQ2FHWGpZOG1POVV6d2ZjU0U2ZFE1WGtRdC80NHVPRmtiUk9WbWtmUT09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHDdhQ1lRR1pSVlJObVk0TkpOd1o3b1hkUlNGST1aJiIk/////wAAAAV1dkMwQlBlaWpYK3U5NTJTaEVhcTYzVGRVSlE9ZSjQ4akS7AEIFBLnAQocZnVaSnFDZlJFRjVMU0sveUUxUFIyc0gzd29jPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VT0pRQ3BycklCdTdiajNBMkMrNkJySDl2NEJvYWIvYWdYbGZVQUNqQ1UrODZuQ1FXTHlxM1NDbnZsbXdDSGQzSUxhbHY5dz09GAAgAigCMOau/Z+xsfkCOJePtounMECUkbaLpzBKHGphVS9RS1JRcktPb1lRVE9Rd1hvUWRhdEk5WT1aHyId/Uthd3dtYVZ2WVF1RGtYTGI0YzUvMitnTGZQND1lKNDhqRL1AQiDAhLvAQocMFZBdlhMN1kwRVpEQSt6dUdPOTR4bHhQeDRRPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VMEk3VjNkQUFPbkt5Szk5a01WWVhvdVJ3SlREMGlGcVZONFg5eTZTQVlYUWhXcjkya09yOW5CdUNoSGhoRXVUVDU0Mlh5QT09GAAgASgBMOau/Z+xsfkCOJePtounMECXj7aLpzBKHEN2cjgzdThWWDA4dHFsd1k3eWt4QWl5QkYvQT1aJyIl/////wAAAAT+a09MMWpyZm5JM01jRWtVblJuSFZjUTd5ZGk4PWUAAAAAEuwBCDgS5wEKHEc3MVpLSyswVmFaN1NqSElSL2FxVzRXSUQ5az0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVVBUnJMTWQ5OGp5cVBiSFFMZXo2d2dLZnlxYml3NTJURUdLNERyTFFja1pXNi80RVRJL2xYY2EzRXJ1RTZJSVJwVmdqK1E9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShx1ZHA3SG0zMlkvRjV3UHhCVjY3UG96d2hrZzQ9Wh8iHdVaMnNXaDJacXVkaUs5cUl5bEJaSjZYcEIxQ1U9ZbEsm/YS8AEI6wES6gEKHHBHblVVUCtCOWxxelRvazBzcW5jWWFyRktIdz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVdrT3ZKekZwbWNoUzM0YkVmdWdvbGVhb1Mvejd6WkVJWjhmNUtnZnFJV2tJSjQ4TExUb0xja2RIOG5DWG9YbWVTaExOaVE9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShxPNXRvS1daQjRWL2xRb2J3akx4RW1vNXdUZ1U9WiIiIP///+5HZHhJTFpITzFPM0x4WHZJYTIvekxlUVFOVHM9ZU8t+EES7wEItQIS6QEKHEVqNDhTKzhHVlJhTkJjSmhncEtzalVaQkZjUT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVU9JUDNmeWRxL2N5UnRZRzQzaUZxZTBOb3NBbjJ2dUNBcnVab214Vkh0WGdzOVZjWHhhakVDa3N4ZzNvcjVVRWN5dFBTT2c9PRgAIAMoAzD93PXYyfj5AjjakrDBhTBAtMjombAwShx6dkRtTFNZOHJBZXJDampDRUZBZjBYeEJGeHc9WiEiH///2kpWNVVqK3pUWUVRdXNDZ2Y4QVI0anc2RGQvUT1lKNDhqRLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnpabnk0TGxFbFQrMlFUMDRTVkR5US9EYmJRSG53anZIckJaNXRsRElZUUJXZVplWlljc09pVFZFSGJEUW9RWWZMc09HNHR2dzc3UXFCVndBYmNtR0FIMzVKbmh3PT0YACAAKAAwuYKknbGx+QI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLtAQilAhLnAQocOWUrUk05dHZraWNMeG1ocWFNNC9QQzRDS2hrPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VbEhXcFQvejRkMk5veG9wSUhwVTBFM3pmcUw4SXpuQXRYOURYclJTbldQcVFISk9LUmE4elNUNWRSUGRJcDlYOGp5cUlrZz09GAAgAygDMKGH8f+xsfkCOLj1yuq1L0C/ssKLpzBKHDNBNjhvWWZ4UDRlcDdTb0ZTenFnYzQyRCs5TT1aHyId/TNSUnI1Wm9wQnRwSDRvcnhoc1phMGcydkE4OD1ld1inXBLrAQh+EuYBChxibnN1R0plSWNxN0QvNHJNek83Yk9paDhOWEE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VsU3QvRnZYWkVIc2wvWHNLbTVCakE1WFVZNXo4MFJWUk9pWVNPUS9ra3dJSHZCMXVmWmg3TUxqZVk1KzJ0TUJYbzl3MmZBPT0YACACKAIwjPyExrKx+QI4lo+2i6cwQJCwy4unMEocRlQ5dTQrS2dtTVI5QVRJZlpsdHY2OFpOTEpNPVoeIhxRNFAxZlN1SGtsems3UUpLYS9FUWlmZWJ0a2M9ZQAAAAAS7QEIgAES5wEKHGdXY3hzci9KaGdiYzYyUDczNnpRRVoxcnJrRT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVURtanduN1QwYzlJMUZiUGw2UU9DTzcrVGFpMWdKT0Z0T3czc1p2TFJITUVLbHU3czBQcEErYXBncUdpMnRjM2svbm9FdFE9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlJG2i6cwShxBanp1RVFTdTVsTkdocnJRVFlCMi9ucitCOUE9Wh8iHe9wTDFtZWhyYVpLaGc0Zy92Q0hqQWtoRVI4UmM9ZU3pOQwS7wEIZxLqAQocNkxEckVqdXlzdkVRUkVlYW5BdjlDYUtxRGFRPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VVjdUSk5tR09VcXRtcUdGN3hnRlV2M2luTnlsRE9xazFWSlNhSXlCenMwNHN4RUcwMFYzY3JjQk41ZUtOdUlwcW1LK3d2UT09GAAgASgBMP3c9djJ+PkCOJaPtounMEC0yOiZsDBKHHBKanl5ZVVTK0dCdmMvbFd1NlVIdE9HdlpsMD1aIiIg////rFd0MjMrbHdnREFuRUxUd253aUZiV3oyZnVkdz1lkDbNoBLuAQiwAhLoAQocWjZ3RURsWlJxdFAwaStGSk8yNExBQjNjYTUwPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VWjBaWUNZY3VRcHRxYTk4ZDhLVEtpT2RjcitxTFM2RG1mNG9VL0xTaG9nZVdRZytMNS9HWmx2TTg1WFczdzl5Z0U0SGh2dz09GAAgASgBMKGH8f+xsfkCONyD2ZKCMEDGssKLpzBKHFkzaEFkZXFPcDFaMFgvUjJpZHdaVnBvYnJ3QT1aICIe//83bUc3d1FZNGE1cktyNmlUS0xuUVVlbFo1cGM9ZQAAAAAS7gEIlAES6AEKHGpwYTFDVVAyMFl0UXVWOC9BNHJTK1FLRk5YTT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTkwOFIwVDhPSlVQR2J2T29ka3F4VUZPRVpwQm0vU3J0WDVQcjVLTDgrcnRkR05vR2hoazRhL1U2Y0dNdjhmbWFOSzhwVVE9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShw1a1NINUJGRXhLdkRKYWdiMjU4RXh3ZXR2Vm89WiAiHv/2M29uK0c0OW1YT1F0L1o4ck9jZXlPcE9xSFZ3PWUo0OGpEu8BCNUBEukBChw1d2I5ZG9aTVFQZ0FKd1M5d1NneVZNOG1keEU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VWNFpGUzdBa0ZxdlhZTGRhTUVFMlNwK2x4V1VCSGFtNGdkOTg1T0RkR041TG1Ic1dxRFZ0SzN4ZVBDakVJTVpuVDBpUkp3PT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocZFF3SWJIZERuUXNjcnpWSjByTjg2L3IyRFdnPVohIh////41ZE54dlVuVHpWdDViOUU2akg3cjBoU1FEVkk9ZSjQ4akS7wEI0gES6QEKHDVKZXVBMWsrYS94anRvVCtwV3ZCbmxYRU83bz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWhvMGJsQSthT1EzclRwdnZvamdhTm5TZmpRcklhdElPaWtCQkozS21jOHFWZE5kZ2MrdThXYTJUb25uMEZ3UUJZSzJsc1E9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShx5WE5MdHdZcXhpUlU4cVNQSmc5cFBJQ3k5V2s9WiEiH////XREcTBQTnlxU0lMc1VaODRzb0FaU1ZSdFZhRT1lOPk5MxLtAQiqARLnAQocVTlUSWxyMWNyVys5VkVLQUNYNFQ5UHpmU0FvPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VS3FSRWQ5cFB0RXRWL3pHRi9ZS1VCbk02dDJXa1hQNmI2RW1YOHhvM3JMakpjQ25NZHEwVEZkaHgranVLMFZWeVppY3JwZz09GAAgAigCMOau/Z+xsfkCOJiPtounMECWkbaLpzBKHDVBaEJsVU16M0FRc0VxSVljaTdMd1Y5b2I0ST1aHyIdsmFYbzlSVjk2VmNQMkpodzU0QlJtUy9oSEd4ST1lMVResBLsAQgNEucBChxEN3cxY0JEQjNGb1RyRXEwUFRqd3c1QVU5alE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VZYWM4UVRPQTIyNkNyREtzOU9ZMVl1dGo0eU5hRmIrVHp6aFErdThOOTRJQUdLaDFHckRxZjY3Qzl2NkVSM3NDTWNLdUdnPT0YACACKAIwpMPAn7Gx+QI4mI+2i6cwQJaRtounMEocWm1GQzBYKzRVRDlML280ZjNQMHR4cEN2TDdVPVofIh27a3pPOHVvS0VhRXRMZjBFNEZKYUE4ZCswQkxJPWUAH0dbEuwBCEUS5wEKHFYwSEFOcmdSaGx4bFB5YXRDNjlGVkYyekQybz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVdYZkVkRjErK29LQmVsLys4czZNd2ZYR1ppMmVaK0tUQUF0dlp3aHlkV2JpS1drYmRUS3VRbGY4UHRMdnZCTnpmR3p4YlE9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShw4SkErL2drT0xIRG9Gb1VzZUswZk1tT2NGSEk9Wh8iHe9RUkEwS05WTUFSYzFCWUd5V1BPWnh0L1pQakk9ZSjQ4akS9AEIXxLvAQocVEcwKzJpS3Z5SmJIN3VheWZZUVplR3ozOHhzPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VV2EwMEZDNnBGakwzZTZZdTdvb3hNek5ZTHc1V2s4TitQRlhvZTl5cWVVYktOM3R2cHQ2Tm54aUZlcVVEUkhoY01EMnkxUT09GAAgASgBMOau/Z+xsfkCOJiPtounMECYj7aLpzBKHHBZeElKTkZxRTdUQ3VuVlpKZ25QREsxNy9FYz1aJyIl/////wAAAAT7UFgwWUFBV0FHbHlJdnNuSTdmeUZoclVMM3UwPWUAAAAAEvABCLMCEuoBChx5WklTNE4wYWRaVjBlWTVMbUxLZldWSGlwM2s9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1Uwb1hNRHJtczBJTXRJRmpDV2RiL1ZCZUFtREx5MnE4K2FCTFpzY2FMczBuYURJZWJVaVBLWWtBUHJ0REg1aEkzZ0NUWld3PT0YACACKAIwnuXhhbKx+QI43dbBi6cwQJmTw4unMEocei8yWjN0aXIxTGZ6VVVHaVorODRlOGZaQXprPVoiIiD////+Z09jQ1l0UTdGVzMxSUxYTGZjUVUyVHBXV3JnPWUAAAAAEuwBCEAS5wEKHEo3eUc4UUUwWFlhS1B4dkIwYWMxRWdsNC92cz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVURFTitrekp2azlET0h4ZnE2WTFTc1dCcFZmak5DTUJETGxjZ2tTRTRLRWF0djVyeTBiME8xbGk1YS9IcUZudXRWWXQ3ckE9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShxCVGdMdHUwNEVuYkM0M2VxbUFSejNhUVdTZFk9Wh8iHf1LTmxyR0dxYnBUWFNrbUZLMGE0dnNnNURBbE09ZWj7WTES7QEIoAIS5wEKHDQ0azlqOE9iUVRmZFBrN1lVb3A4eEdhN3hrVT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVJSaGNWV2RKSTZlMmNvdnFHcDc0VkMzNnBMR0t4ZitjTTVjM0dlc0Z0cTdxWGVYaE9nT1B1VmVlWXZSMkdCTUN4VnJsWXc9PRgAIAMoAzChh/H/sbH5AjjAuIfKxS9AvLLCi6cwShxYZ0paNENKUzV6ZzFwbWFxWHRBYXdNRDVTbVU9Wh8iHatLbnNzdDllZHFpQ081blNubFRzSG1rNlZGNms9ZW2yXJES7AEIQRLnAQocSFVQOXIwbnpJNEVHZmw4SkszcUF0anVMaFU4PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VVjgxZmlwR04wVGVnejFBbCtpc3Bmdnd3SnFFdmJpcFkyVXFmaUY4a3dKekVVUmpaQlRnWGhkQ1cxTHg5bEpabXBIdHp3dz09GAAgAigCMKTDwJ+xsfkCOJePtounMECVkbaLpzBKHG9RYWg4OUk0U3hqV1M4MVl6YmoyYlJXT3dYVT1aHyId/ndzUHdIeHNXUm5oS2t1NGpmOGNRZlh0YS9jST1laPtZMRLvAQi/ARLpAQocWmdkcDY1UjlPWDZFWndqbzY3N01TNHVyek0wPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VQWVseHJUTEt4RThud21aMGdYUlliNUovSjlrZHJ3bkdUcGxGWG5ockQveEZWb1VXUDJ4Y3BnNnFUenNoYzA0dmNoZmliZz09GAAgASgBMP3c9djJ+PkCOJaPtounMEC0yOiZsDBKHDRBa3JSK2toSTBWNjFFRmwwZDNNSXhVam5zQT1aISIf///+NzhRYS95ZXdSSzJFNGJBNDVLSjZFNVpibkJFPWWnENx2Eu4BCJsBEugBChxsUHBCczJaUTM0N29tbE5VUmZEKzZ1cEJmM0U9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VMK0FtdjEya1FYTEtleGJpR1dhNFdnTEpQak4ybytqQkJkdTdsZWw0Nm05V3lPVUw4OXpNUjBaRlN6a21aRDdmcko2dDJnPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocU0RLcjI4QVBaa0dGVGxPWFhzeE5hR1M0L3VzPVogIh7//nNoV3JXOEprKy95NXhQRHNGUlI0Q1NmUEdIbz1lKNDhqRLtAQh3EugBChxndEhFT1BRcVAxYXl1bDlMR2tCdW5tRXZqZWc9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VSaDlKcWxWMUF1cmJTckJHclBLeXRpZjhjUU5BYUZJNmVLZTJ2YXA3TnhDRlg2RFNmaGRnKzR6OURBcXNOS3plK3B5dWpRPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocNUdPVTllWEJaOUpuR1lmdGdmNzZPRC9yYm9NPVogIh7/3npFRXNmVWJTOGk1dXlQM0ZidVJnMlRVSnJoRT1lxc+QARLvAQi3ARLpAQocMDBiUy9sMVZGbTl5c29lZmdiNmNDNGN6c1RNPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VMTFzblE3UlU0b1Z6TnZMempFb1NjbnYwaHVCa0ZGS3NwQ3R2RWkySlo4WDROTmlHVjhLb0tlblpmcFl2VEJhQVZOMm90Zz09GAAgASgBMKTDwJ+xsfkCOJePtounMECXj7aLpzBKHElSZnZJcDlwK1FXYVdNWmF4aGpyeHJ2dllVOD1aISIf///uVE5HNWUvTC8zaEJsK0FVZkRMaUVUcnJLUmNJPWUAAAAAEu8BCMsBEukBChxONGt3MVU4dUo0S2tyRUpPRGUzam1nOUQxMmM9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VQYW5JZGdtaGM3TFh0Z0kwQnpBK2RkK3dkNXlQbDRSYlZPN3dIUlBueVhuVnUvK1FUQmJod1lRZUxCbWtXQWdtZU9PYy9RPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocQmVoRmNnYmYwRUxzaEhQSGxTWHRPcE5rcWt3PVohIh///7lxQnVBaDlyNDhueUdHQ253VHJsOFhaRjJMWEk9ZYRZOBMS9AEIKRLvAQocdCtYVDVQYTJNK2ZlYU01aEw3RUN4SEpFeGZRPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VL20vd1duMjlpa3l0b1FraEVsR01oUEgzYjlnSTBBSlJpQUhscGwrakk5Zyt1UjhiclZCb0xzQkRtU1M3WXVLby91bU16dz09GAAgAigCMP3c9djJ+PkCOJiPtounMEC0yOiZsDBKHElSMjREWlpta2Zma1lQVTFQUlJ0bVJvR1JwND1aJyIl/////wAAAAX7VW5oL251cjVBZjFsSDE4dzMrYlEyYUFzTmJnPWXvMWnfEu8BCBkS6gEKHEZiUHJhYXIzNVcvbVg3SWgwTmVKMld1ZjluZz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWt6cWlPOEhheDRKUnZsNndkNTJtY2o0SGU0ZVgyR3VnRXI1dTJCNkM4MWF1cXJjc1ZaNlhJT3B2TXpCZUdvaloxQ0FSTlE9PRgAIAEoATD93PXYyfj5AjiWj7aLpzBAtMjombAwShxMMFI3ZVh0S21pTXd3a1BOUlM0UFNZVDlHdWc9WiIiIP////p3dVhDaU96aCtmR256cmJhY0dFVTR2emNzSEk9ZUi/JdwS7QEIuAES5wEKHGdoNEZlRUNSamNYcVo3R1EyaVZXKytWcDAyWT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUVzYUQvdk5WcnZxUFB2aTBMek9SYUNyOUowKzlySGV6eU1Obm9qWTFXb2JCZzAzdGhObkdEN2Mxb1RhQlNDOEd0N2kxMWc9PRgAIAIoAjDmrv2fsbH5AjiYj7aLpzBAlpG2i6cwShxUM1AwSG1lQmhnb21jVmVpTWFiVkVwa0VzTE09Wh8iHdk1MTBBTGdPRk4rYmVwNTJsQkNyZGdZT2tFazg9ZVPIJ6QS7QEImwIS5wEKHHFCTm5KeUdhNWNQYStnM3FKTkxKL2dUWGJnRT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXVQUDArZmFIS2NseitNY2FmMkNJREkyWktPSDIxeWlpa2RRUGwwUFFsd2JRU2RWdGFhMWgyTVlJNUpIeXlmaU9WVkVSN1E9PRgAIAYoBjD5/fL49eH5AjiYj7aLpzBAyezSpq0wShw1a003M2gyYkVEWUREOUlGZzdVMHpGV2x3ZG89Wh8iHexyRmRHRXlaSldoRmIyZkpEUE04dDcrT1pkODA9ZQAAAAAS9AEIGxLvAQocWURKRjV4dFgzVlpvcWd4eHJvazhPSU9meUFJPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VL0R4Vy9Sc2xIVGhwd3ZwVW4valJ3ODZDclR2bS9rRitPdzJkOWJGSFBkMTJTMU5nRmdEUGVDR1c0WlR6ZTZyZ3lTNjFSUT09GAAgAigCMP3c9djJ+PkCOJiPtounMEC0yOiZsDBKHHZaWFcyQ0g3dXcxbW9yQjZSMGxzemxKcGQ3TT1aJyIl/////wAAAAX3UHhCZ0pMRHd3TmhUTmZ4S0U5cC9MT1dUTHFZPWUFz1P1Eu8BCM8BEukBChxUUk5xbVpnajlIMU5Xbm1raDFHRFNnZXFRV3c9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VnTlRnUGU4L1RUTytNTTZuWG5zdFltYmk1VDJ1VEZ4VW5RdFpFOGU1UXU4ZGxpSTRUSndiMVZTaTNqZ1ZMMVVMZUZMMWhBPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocdmVTSldWUnRhSTFlTVhOMTZzTmlZWEJKblFnPVohIh///+5qNjRHM21lam9NRC8yVDF4U2FqazMxcEhMUVE9ZTj5OTMS7AEIPxLnAQocREd1QXFQbnFDMVpxMTUyRWxrTXQ1VElhMkxFPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VeWZ4c1h1N2ZwTUNyNUVacWh4dldoQXdMVFlOMVhqZjdtWk5nZHozaEI4WmZCMW1WT21sQjVjVWpWNXFQd0gzTWV0bGdoUT09GAAgAigCMKTDwJ+xsfkCOJePtounMECVkbaLpzBKHHFIZUF6cTVRdUZMakF6VHFHVndRSURXSGFVbz1aHyId+mhvcXVxL1ZEVExldHZiVk1NRXpONGIvcTQ1dz1lKNDhqRLvAQixARLpAQocNU9CbG4vN3Axdm1Nbm81Y01va1FGYU1rcTFvPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VblptS0RYaEpNVzYrdDJQQnEzZENadW95cGNMeERNWTdmczZOZkNha2hjNUVZejk1dUR2ck0rb0NDaGhGbmorY3Y0WWs5dz09GAAgAigCMKTDwJ+xsfkCOJePtounMECWkbaLpzBKHGhvR0laT1VZNTFISVhmcXhBQTQxZzZEbURrOD1aISIf//+7bkN6V1NVajF1aXVxd2d6OTJTQzdsVWd4OFZJPWUo0OGpEu0BCF0S6AEKHHdlTklJanBGd082V2hFemEvTlR4NDZnRnhSMD0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWtxT1B3Z2xyRzVZTnVJOXZMeGFiMjYxMzdPMm14TGhwUFlrVGlGdE5HRjV1dUZRR1hzUmZOSU9xbjloL3I4NDgzQXBod1E9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShw4VDgrSHJJMDE3YkpZT2VDUUpmWnltOEp3djg9WiAiHv/9QWltYkw4Ylk2cldRNm5qY3BjQzJNdlBxRURNPWU5NrzwEu4BCJMBEugBChx6cWkxSVBwMWZwUHNBWkpQRXRvREpsZk0xclE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VSZUk3RVVDSWZXK09OVEpKS1hYTW4ydHR2SytsY0NnQkI0NU44eWVDVDBLVkpSUDhnZ2xrOUVmYjM3S0dBaVZ4ZkJkK1RnPT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocU3lrWTBYVU5MN1czQVhuYUZDQ1lKeGNCVElVPVogIh7/7TlQK1M4YzV4enAvYVlYTHR1bU1iSnREMGtmMD1lKNDhqRL1AQjBAhLvAQocVWtOeTE4NXM4NTF5RCtUOWlrTDJhRFhzcWswPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VMy9hMWViMHd0Um1NY0N4dGhwa0tFcDlrQTA0MDFmbTdwdExNMmtXbzhvTXJ4WFN0eHE1ZkRDMTZxS3lMK0NYQ1pGaGg5Zz09GAAgACgAMP3c9djJ+PkCOLK+6JmwMECyvuiZsDBKHGxkbjA5alJGU0NNdVVKNjNHbDJtSVZVeGhuVT1aJyIl/////wAAAAbdR3pYWVd1ejVzOVQvUUdRdVJFQ09qVVdKME9zPWXyliIyEvABCPkBEuoBChxKK0cybFJoekxJRFpjWmdoL1YwdlRnMW1mSms9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VjT3A1WUdEdEwzOEdEV0ViNjFhMmJKMVZPSWpGeUsrK0RKS3c0b01yRmNyYklIZHBJZmVhdU5yVzdoN3dZZ20xaTlSN1FnPT0YACACKAIwpMPAn7Gx+QI4mI+2i6cwQJaRtounMEocVEZVamFhVVRuMTJFTmJ6bkVFQzdOUHBSSHlZPVoiIiD////bQzNNZVRkTS93K2xCaWREL0FRWHVzL25ZYXNVPWUo0OGpEuwBCFoS5wEKHFI5N1BqQW5iNklaV284UDhoNmlsdVl3Ymp6WT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXo0NWhHRXpsdDBxd1BCRmFmOEVkSWUzNGE0VzJjODlKU0g4RkgwMEtWZ2p6U3RUbVRIM3VqTW5McEMxS3g5SzNFNTJ1N0E9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShxhZnc0aFpuTjRrdXlySUxuQ0hyRzQyOTBLcVE9Wh8iHfs3b3ZRbTZYekI2ZEt1Y0paVEV1ZnZiV2QwZXM9ZSjQ4akS7gEIqAES6AEKHDN5S0d0cWovN2tCd1VoaHVtYVZzVnJTeW10VT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVl4cS9lNmowTSt5NkMxMDVrOTh2bmFTV0dlTXpQTDdNU2VuSzZ3YkM4eGlOWTdXZ0V1WnhkcW9MZmFqdk9LZk9aYXA0M0E9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShxRdER6YTVYS21uT2R4eWVyZzRmTGt0THBCb3c9WiAiHv/6VzJKN2ZldzBvWFM3N2lXSmZFTEVFOHNqa2dBPWWBywdyEuwBCHAS5wEKHGJFd0NzV0YxQjVRRlRodlBwVjZFVnBhL1Bscz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXlwNGFXUDNNRmphOUcvQ1RDcm80T3pDSDNVNm80bkFLZjg3Nno5UEVETnRSRks1Mk5PeFZZdkNNSmF6dllmVzdHUGZHN0E9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShw3V1FRQ2t1Tys2Qy9ZenhIRmtwSXBUUnJMbXM9Wh8iHf05NkcwTTZWcFAyOWJCeXhWb2NiSEdyZ3lMcm89ZY7d4TwS7QEIiwES5wEKHENtUkVHL3EvTTg3SXgzNVM3ZWZvSDVISmdLQT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVU1QdTgzYTAyRFpMZk80ZDJ4YXp6cCtQY05WZUtRU2JiRkxDV0JSQ1N3NUFPSmVUR2NmZFE0ekszZlJPVEQ2NzVDQmpycHc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShx2aVEra1FMZlQzMnJxQ05IY1BxcnNjUFR0ekk9Wh8iHf9vNmhvbDBFWGNMZGJVYzBIUlJrZThoNTVMeFk9ZSjQ4akS7QEIjQIS5wEKHEFPVDVXbEdCWGR5SCtGSDl4dkRXZml6RmtUST0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTFNNlJVMHkycnMwU3R3ei9EWW9LeldqVGlPSkdNRmZ2VHg3cG5MMDY0VjhxS3VKa2NPSW5naWNBVC9IKzUrTEpHUDNEcWc9PRgAIAIoAjCkw8CfsbH5AjiWj7aLpzBAlJG2i6cwShw4bzZGT0R6SEQwbFVKdlQxQXgvS1QxYjdNTG89Wh8iHdlucTBRLzJ3VUtLWkYvdjJjV0Y3elFKMFR0SEE9ZQqDpI4S7gEIpwES6AEKHGlXRU9XRjM5amNkcDd0RXRHakh1UHNuSFhvND0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTgyWmFycTgrbjlYZy90K1lIN3lTS0ErSDY1U1NjWFAzZzM1Q2V6cGlhT3dPUCsxQ2FYWVYraWR5a0ZQVjArMHYvUW9NOGc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShwyMlRURHJUNG4vZk5tRCtMWFMrSzNacEhSVnM9WiAiHv/+UHlkOG1lc3RNMlBTazUxZ2ZIWVo4aDRwdG93PWUo0OGpEu4BCJwBEugBChxlb2c2MVZvMjBOL2kyeUtlOFpwZVJwNmREZlE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VJbkwvQWxvbFdFaDBhODZvUUpUaTkwbjVnek9ja3ZaRVNlSVJjK1lMWW50VHhWS1F4ZG5xQmJkTzZ5cXh1dEdUVUJCeEhRPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocNld4MXZFRTdzLyt6NGh1LzVYR3ZpS3p2ZGkwPVogIh7//y9pYkRza2Y3eE40eE9ZaG5yam1TTDVGd3JuVT1lCoOkjhLsAQg8EucBChxXRE5lOU8xektQWFIvaVBrQ2N5dkFVWlVZaGc9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VhbHo0b3VOdW9za0pZcVJCMVBRbk1DNWNacGRoVFdocEJjUHo2alRVa251bVo4RFVLZnBMdnNMckU5Q1dReWFWaFRXWTRBPT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJWRtounMEoceG1uVXpiQWh0WUpWSGRGSUVsbC9VanVoNGo0PVofIh31Y04wb0x5eFRORlk4cXp0bGdHVGEzN2crbFpjPWXRomr/Eu8BCOYBEukBChxaaXZrNTYzNms5Z3NPV0ppK0ozbnl3SWRHRXM9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1Vuemp2THdJK29iQ2FTaFNoaE8wUmRYRmRKZjJiWmpWMmxKRkxMZXpTQU5Qa0prUDEvY3ZGb05MOGNkR0tzeUpPYjFpd01nPT0YACACKAIwpMPAn7Gx+QI4mI+2i6cwQJaRtounMEocZkh3ckJmZURxUXA0SlU5T1NWVTVJaDgxellFPVohIh////9vRnFDclBQRmtPUlQvOHU2SXF3QllCa2pQdWs9ZXTGGc4S8AEI7QES6gEKHC90SUQxb0JIUXhDWG5hZ0svNWxheU9oQ2kyYz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVURCSjByNTgvZVc5aVhMN0FLaXgwNWhDNFhYZmpiY0tpd2t1UnFuUHNvdHVJL1FwMk9WeHlOY3p3R01OYXZBUGJJenEzb0E9PRgAIAEoATDmrv2fsbH5AjiXj7aLpzBAl4+2i6cwShxLdEExaTNJbE9iUG5SNjl6OUoraWtIRmVmTFk9WiIiIP////cvSTMzVUlYQWllbE8rUTl6dHM2eStiRmZUejQ9ZQAAAAAS8AEI6AES6gEKHEhuSFoyZzlaUXRCN0I2NzBwdEZVdDFnVzJBVT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVVphWkxKTWFLdlFhOE1Zdi9nV2JOS0wxM0lBVkxROHFnZ2ltNXgrUTRXQ0hxL2FiNHpkdkV6SzUyN0tORUx6MmxDdHZUemc9PRgAIAIoAjCkw8CfsbH5AjiYj7aLpzBAlpG2i6cwShxkdXhpRURHSCtTdXdSVjFSRnFMbXFWYnFYSG89WiIiIP///7dLTGlINkNqZU1QTnI2a05IVmNmUUtCcklnSFE9ZXmB+gIS7QEIjAIS5wEKHFBJTWRzT0JQQ2tWU21mQm50RC80VUltcVh6WT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWd2ZXl6UE5TMUs4SmFjUXo5KzROVDE0eFhxSDArYVFuZUFybDdZQlN5L3BvaStWZUZGcDZtdCtldkRiSnlGQUNUM0tKWXc9PRgAIAIoAjCkw8CfsbH5AjiWj7aLpzBAlJG2i6cwShxlRVhWWGRyZUlFVzRZemU3aWNYMVdvdG5xcUk9Wh8iHbJQVjd2L09QbjQvN0xPeWU5T1BQRCs5QXFUeUU9Za2nJvYS9QEIhQIS7wEKHFlHTjF3dm80VllTVXRyTE1NTE5HSEM2a0Z4bz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVU1EbTNBbklUYkd6NnRjQVExMXN4MDA4RDg1TmhsK0dZQWFtcmlYRUJ2SWVDb0RGbUtRSlc4VzVWdDFELys3VmVXSVFHU0E9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShxXMkNsNFJQUDdmdFFUR0pwMlovaGxHTnA4SHc9WiciJf////8AAAAFukJmc0hUT05ndVFsaVFVRDJrdnR6VTdpcGZFbz1lH5g/GRL0AQhxEu8BChxDbU9jcUpCeDNKTUVZdUlzcy9PemtXSHdEWTQ9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VpQ2plYVF4dFZtUUNYdXN3N3FOd0ZHUFZzRkxlNklnRUFhSlRUZm9taHBRQ3crVGdMYUlJMmVzdGJTZUE0dWRFRTdPZWtRPT0YACACKAIw/dz12Mn4+QI4mI+2i6cwQLTI6JmwMEocNkF1cmtYOXQ2ZG95bEZMMEtXaVNJNDR3MW9zPVonIiX/////AAAABf1LM2VDY21ib3RoUGU4SnpWeDhFc2xjMUhrK1k9ZTnRZZQS6wEIWxLmAQocWHV0ZTJrOVkyZ3kwcUlpTHRQTHJjSklYcGtjPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VcG1TSmZEQXYvU1d2U2NFR0ZaUzFUZGc1bnFrVm5heEh2TFFxVVpRSy84NG9yVEgyZmozdjFqa3BlWXZpK0huUGpJd3V2Zz09GAAgAigCMKTDwJ+xsfkCOJiPtounMECXkbaLpzBKHDkrV2paSWtBdy9mM1dCY3BGRHBIMjZkR2xnND1aHiIcUTRVZTd4dTZwS0QxT3pIUnIyTHVMR3RUcHU0PWWZ3wbFEvQBCOABEu4BChxLYmJFcFl3MzErOXo0MHV3SkxrZHNpM1ZGVlU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VGWGZidzZZSGpRTHh5TnBBWkEzVElnTCtzcmVCRzdwaHpHbU5WeUwzSGZmMis1UjhvVm02TW5JcnN4MmtZRGpHVEJkL3lnPT0YACABKAEwpMPAn7Gx+QI4lo+2i6cwQJaPtounMEocZnBxaVZNNjV5TDV2em0vRmhXUzRhaURBalNjPVomIiT/////AAAABGtRZXhoWlE4MFp4K1JJRHdha2lteDZWWC93ST1lAAAAABLrAQhREuYBChwrYWhncERkRmU3TForcTZVamV2Q3FwTXdURVk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1U0MjNiU2JCUWdUT2UvOTA2T1JSUnc3QVJFdHVZcXZHZmcrS0ZxeVkySW1XSTU5T0VOMFkvcHR6cDAzbGErTEVONUhWQTlBPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEoccDRQd2gwbVpJQzRkWDZsamxmNlhwdEF5NUNNPVoeIhxhQlhJL0VMSVhZYWFFVWtJdWpzSWZLdDNsVk09ZSjQ4akS7QEI4QES5wEKHHZLQkhpVVcvSUFzR3FZQmFVRDREWVlnd1FXTT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTlLUUJjM3pURlhFMStlVFNhNnhTaEVNTndsb3R0Vndzcjdia3FZYWNFUDdzbWFxdFZwVWVmUXJKMUJNc1VYWHJ3TDdJK1E9PRgAIAIoAjDhvM2/srH5AjiWj7aLpzBA8cbKi6cwShw0eHlyVjFvQ3YvNzk2S3pGRnlQMzYrcTVlbEE9Wh8iHf9vQ3VEbU0vY08vKzdFV01GR3lFTUdIMDVHRFU9ZQAAAAAS9AEIEhLvAQocR292V09nQ213NmJkUWs0U2lsbmlyc0xlL2g4PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VYm5YbDFxbUlheVVmMEVWVXFVTDhWbW55Wm4rNThMVlNNVk90R0NCVkxHWjNvU1dOalB2WDQ1VTVlbEJlMWVTdUFvNUFZdz09GAAgASgBMOau/Z+xsfkCOJiPtounMECYj7aLpzBKHEZJWWJMcXU4a2VRcU9zWUpDT0tKNzlCNi9ZTT1aJyIl/////wAAAAXvL09JYjh3MEJlQ2U3MG5KKzFrc3lqbE50VEdjPWUAAAAAEu0BCHkS6AEKHG53bGhxcW52MlJ3VjRlSEdLUDZvaFpPNlVaZz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTNYS2VYczU1NXVROWZYYUdRbkcxcHFIaHJtaGh0OGNXZnRRRGd5REtDY2txOWVDSTZSdXJOS0ZXRzgrbTBsMVoxcGZ2T3c9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShxtY2xsUVhiY3NDaU56enV1YVJYNzBnamU5VjA9WiAiHv/+WWk4ZHlTTVFPRjcrenZWZTM2SXVVRlpyUWVJPWXq8IzrEvABCKYBEuoBChwwc2hBc3JvbDFnZ2hMNU00NXRSZi93dGFkU2s9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VJYVR5R0VsVXByQkQyNzVsdW5CMGZReXBWSk9YbWxVSkhTUlh6bDhneEpCaDJZRk5qb2N3aE1zaytEdkVKbUpDcE40NmhRPT0YACACKAIw/dz12Mn4+QI4lo+2i6cwQLTI6JmwMEocVjQ3Rm8rb0tvWk04VC84b1FNUk1LeVdZWUxvPVoiIiD////8dkI2czdyNVgyS2JQbm9ITnFvdmM4R0t1bkRzPWUYUP/cEu8BCOQBEukBChxzU1o2T2JYYTBzZGt0emVHaWlQSG9pSVMvaFU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VoNURxaHB4TkRVUlE5SnRjT29DT1FhdG9POVp3YzJLVjJOTFFTNEovN2JTMEV0L2VKbm9uNVh6MWVqSnVZVUxjWkpmcmNnPT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocZWd5RkZPOGFuc0hhN056b2loNWdzaUxleEFnPVohIh////9ZU2Z3WHVFbmM5VmpkY0FMT05XOTVTYXBNTE09ZSjQ4akS9AEIwgIS7gEKHE16SzlDY083SU15YkZZK2gvdjFydjNOajZsaz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVU1CbitkTkFWOUNRWjFETjJ6MDdUSFZHVmY4QkYvcmR1QlRNdnorQzlVNm1jVFpWYytmSWh6SGFsUFBvYjNHelVNNTBPYlE9PRgAIAAoADD93PXYyfj5AjiyvuiZsDBAsr7ombAwShwyMGxsdnFaMHd6RHhsUnJIaHg4M0Z3TjRta3c9WiYiJP////8AAAAGdEpBV1Y3c2tlTGFNWkZaMDFrenFpY2h2d2xnPWWfioJfEuwBCOIBEuYBChx2SGVPdllrTnd3YlVWckdML3ZQaHZUbDRFaTQ9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VKZ0NtUGk2eWE1OGg5dUJnYS92Sk5RSldFNGxtZS92eUNPaGQ2eTJpWUxrMmEwd2grYXhaNFo3YTFqS3psQ29FM3NZREF3PT0YACACKAIwpMPAn7Gx+QI4lo+2i6cwQJSRtounMEocbW9kcHB3VEtqaGhackZJeWxRcVNLNVA0Z1ZrPVoeIhxkVUdUS2IybzFSQ0JLQ295dDZIcG9QT1JhZ1U9ZYOPuNES7wEIzQES6QEKHHlTeVdia085L3JBeVB5YjJqRzk0enlTbXAzQT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUhuTisybWRnWnNxVWFNRGp0NERZL0g3RUZNV1JUREdWT1JaL2cxTG53dkhwSkRqK3kzdFRKa3djR0Y4KzM5WUxkSGhGSmc9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShxFbTlxaUJkdDJ1QXFaN1VidFQyS09mb3J2UEU9WiEiH///3GZtbjlEOGwyU3YvV2pkNGJtZm5nWFRBTWwwMD1lKNDhqRLtAQiSAhLnAQocWTdLaDYySElWUUx0SCttRnRlUTRsWHNwVG9vPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VTmlRMjlydUhOOENLc1h4aFZwWlBVa0RqeHh5L01FQlliZk5qaGd2VjVZU0Npc2FNbGZsL3JyQlQ1QWNXaE95Nm42SVkwQT09GAAgAigCMKTDwJ+xsfkCOJaPtounMECUkbaLpzBKHE9FbGxZamNzQloyekhCaEx2WSt6a3k1RDVXcz1aHyId+3BQR202WVh3cHhTTEFOdFJrb3dNb2svTmVLVT1lATp32RLwAQjvARLqAQocc1ZHL1JuZGtwajNySCt4ZzFsQlZpakZ2d0I0PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VaDg3S1A5WG5xTDQ1NG9oYjF6a3NlN1I2SGV6VzhIMjRRVkJzcnljSjl4NGw4M1R6VGhmOWltT2FKVzd2TUJNSUpRbFdzUT09GAAgASgBMOau/Z+xsfkCOJePtounMECXj7aLpzBKHGxJWGMyMlA2cENwSi91ZWhpWmYyZHVZMTV5az1aIiIg////+05XSWVVaDg4ZS9BcXQzbWJYY3BHMzMwRzY2cz1lAAAAABLtAQiVAhLnAQocUlc1Wk85S3MzVjNCekw5ZDlsRjVOREFzLzZnPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VOTJHNi91V0VUQTYrV0ROekhrcVRIcjIzci9Bd2c1YVBSTmZ6WXFlNExFaVgvdTdOdmNFSDAzcVBVMFVrQW5BZW81aVVoQT09GAAgAigCMKTDwJ+xsfkCOJaPtounMECUkbaLpzBKHEJmOVhuQXVhY1BwSTJ3NGkyQ1FVUHdDUW9xcz1aHyId/lpaTVZqdEMrb2YrVGZFTEdmSXNxbXEwWjVuaz1lKNDhqRLrAQhpEuYBChx4cnVISTJtazNuTDdhTGpkMW1TaFVwMFVCMVU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1UzMUpBU0Qxb3pZeGVraG9QZzJ5b2pnMlFPYlgxL0pxQ0dGaUQ2eWtHb3hBcW1uSTdRMGN5QUd2ejE1OHJqa0lOVksrWjNRPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocWmppUDZOckcwMVBTa3hoSVRUamVMQUU2eDJzPVoeIhxkL0I1dlc0bUo2LzBBTUUzRWdZRkJkVXo5d2M9ZXdYp1wS6wEITxLmAQocb2J0UWk4TEdUdzhPbDJBWTNFN1M3ZjhNemtJPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VczR2MUJIeUkwdGNPemQ0cFdvMEtLQk81N2JjdFNZbkdFMGRZSTQ3dlNRdE9wall0RlRLOEhrb21vVUNHbVNVUHkzQWtGZz09GAAgAigCMKTDwJ+xsfkCOJiPtounMECWkbaLpzBKHFgrOXFOYlY3VmlvWHpoUFNGY3hCVFRQb3VRQT1aHiIcdnRTbDd5NUxHNEV3Q1pxL3k4WkpXQXMzREpBPWXS/wkkEu8BCNcBEukBChw5Q0RNbjViMllMZWVCOUQwUUh2M1RmNkVoajA9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1UwUEV6WFg3c0p4dmdFVThDV0JXMUV3aWkydmFxZytjOElpZEtXVkk2dVlSM1EvczR5azBhMGFGOW11RUFWM0ZsUFIwUlhBPT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocbWE1cFlXYTNLalA3OEM5Y0JYM3JQZHFTM2FFPVohIh////9VTnFPY3pKamdGZ3lQUS9URUFSNDFoVXJ2YXM9ZSjQ4akS7wEItQES6QEKHGpRQUR2ZjNnZ1Y2S1dNSjBRMVlybG1JL0t6OD0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWgxTWtnNWZtd2FyUHZOckhZVjZKOXFLZVJwNmdMS0N4b0FObkpTVDgrRE1FUVBLc3MrbUhtczdDMkVkaytHdU1WUXZLNXc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShw2NlhaNTJsSGt6QUxOZTlhTE9VMHcwOUtZNk09WiEiH///3VFYdnZiZjhYdlM4MEZPb28xU3ZYWHlwM3BOTT1lKNDhqRLwAQjqARLqAQocZGZOM2p5THBURlhSQUZmaGpUS1J6cDNRbmF3PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VVjhSVHZLUmdZZGVsL0lQWHd4TW9hdFlrakwwL0Q3QWQ4WkthdHdCVllidUtKOUgzRWpEV0JQUjlEUTZpaTRYejNlZ1Z0Zz09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHGFROHpDcm5qdzFGT3MzOFZDb1lzZXpYTFpaMD1aIiIg////3DQxV2Z1U2hmRkl5YlZaeG5UUy9KVHcxM2N0WT1lpxzSGRLsAQhjEucBChxCa0lVUTRpMS9uNWNDWGh3MGF5S0ptZ29kNTQ9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VaakU1MUJGQjUvUmh6dkl3bFJDU0FDeERwN3UxbXZSQktxOFV4ODNvWXVkbkg1MmdIZ0lMTEIxYWx3c2o1Vk9aRmZDOXR3PT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocTXhRdXI3aFpvVUxKOHByMnRrdG52aVhFOHU0PVofIh39QmxuT2dkanljMEVjV2FycUhJYTNxWmxlTWJjPWUo0OGpEu0BCHUS6AEKHE1Fa1VVd3QwZUpKN3hSYVZyMzZaYnVpZDU0az0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWVHOWNVTEw4RkxzalhtRmljQ0lLZXVjc2srL2o4MzluR3pXb1hyTnAxK2hVREJLZTN4bFZsbDdmT2NVVDdpQ3YzNEJvYUE9PRgAIAIoAjDmrv2fsbH5AjiYj7aLpzBAlpG2i6cwShxramJBdkRiemsrUTFEVTRPY1pnd3ZmakVsSUU9WiAiHv+8RVpRdEFBUi9CN240K2RmY0x1K1VpU1pUWUU4PWW4bx7HEvUBCMMCEu8BChxEQzJCdzlDZTZLR2dxVUJPb2FnUkJzc2Y2bEU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VXR3Rtam12b3pVU1d1QktIb3pUYWkrZUsvVWNJcGR3Sk1KVnFEbksxQnQwbUt1d2ZjZnpXRkxzT1VTYm9KNE1yTVlzQXVRPT0YACAAKAAw/dz12Mn4+QI4sr7ombAwQLK+6JmwMEocMVdHZmo0N0NRaS8wdHR1Q3BlbS9VZ0ZOc2pvPVonIiX/////AAAABf4rT0xzU2ZoaHpzSW5OMlZnaDV1anVFM2pCdnc9ZcXPkAES6wEIDhLmAQocdmxxTDFvUlcrNzBJTk12UHUrWWlpekxWQzdrPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VKzVhU3VaL3VjdkF2OWRSK2ZJL2VqbDRiL2t6dEVyYmlGNys1SG5vNzUyYUZ0S20rUlJrYjRBSjVDZEk5cFFaU2diakVZdz09GAAgBSgFMKK0m8rjz/kCOJiPtounMEDdt7H9qjBKHFRBRHFoRVc1T3RSZ3JRUmpxYU1YNTY0ZVdXOD1aHiIcdlExNGRRc0tZaGpIZ3h1OFM5ZjFBZng0OEFFPWUo0OGpEu4BCKABEugBChxZZHcwSlQrU3J2Mmw0YlVpNWoyeWt5dm5tSnM9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1Urdm13bVMxSGJlK2tvSGFKSTN5a1JaUmF6cDd4aFllbndYTEM2VnZ4RDJvZmFuSEZEQ1gwNklWZTAvdnNENTlRRnBjdkJBPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocY3pVdjlYZHF2emtvQ1FIcmRmUEgrRG9KUy9vPVogIh7//zZVUjZBNVh6REpZYnBEUWp4a3pFdThpdFN5MD1lILwiZRLvAQjQARLpAQocWlhpbUNoTmNNK2xMRjdMQjdCTnVWZlFaa05BPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VdUtQL1NSMWlEbmxtVUFTV1JRZTRWQnlBN2k5aEtRNDFnbkhzeFNkekdXc0hIYWZqTkJtYWNEQkhYOVVjWDFFM2hZaVRtQT09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHHVNUkQ1WEFnZnBHZVpmTFFuQWQ4S3FlU20vST1aISIf///3QWFUK1R0N1VPSEJ6THBVRVRFejZVOXBZL21ZPWU4+TkzEu4BCI4BEugBChxzY2xPT1NxQ1F0TkhNcWI0dEk2NTM4V3BYbHc9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VFbEZwdFNTcWNYYmJLcll6Q0NtKzhWSm5QeUYrLy9CQ0xiNW1uclJwN2VDN3lvK2J0eTRvUkxLaHVpb2laRlA0a0FpNkt3PT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocUDJ3VWhiTWVKR2VudjhrRFlzMnJFbk1jT3M0PVogIh7/9zV6Wlh2UkpTVWRWVGpUeUxvelFXYWRTYTlqaz1l/dYgchLsAQh9EucBChxtb3hadUFHeXUzbzFRMUZWd01RYXJqcU00enM9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VEVnd5ZVdud1lHZVVtdmRFUnJRMEhmZU5XN0M2NHZYbTZTaDZqMmVkRlMzSzZMRncweTVIVXV6QWpNUTlmYkhWR0RIU01RPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJSRtounMEocR3RTUXZRMnB3ZUxpSkJPem9XZm8za3BvZHlzPVofIh28ajlBa0tVNlBxRUt2Wmp3RUxoT2V0YVBLWVN3PWVtoJ/1EvEBCN4BEusBChxhNHp5UmtXSkdTUVkyZzk2U2RiMVByOXk0SEU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VTMnY4Mm9zMmpJblhXZ1BiU29UNjROTDNyeDk3dlpvZHlsY3QwQi96cDJaZEVaYUxuejdZakpOQnJEdzJyZnkwUEIyVVdnPT0YACAKKAow/dz12Mn4+QI4lo+2i6cwQLTI6JmwMEoca2lWZzh1QmdtajVoZnA3SzhjOTZZT2ZwTDZRPVojIiH////+WUFGQTUxUjFQNUkyd2lSRWN0VzUvNXlQZXlodz1l4zU7rBLuAQieARLoAQocNzJydFlpOTlFSzFwcUJSOXlBZUdnS3JXOTNjPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VSG8vbS9rQkRab1Z2Z21nQ2NiRndTM0xBMjZmVjM2dFdYK09zK29vSEVHSXNEcFNsbHFkRVg3WmxuaUpJTkxRdWs5Kzhadz09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHG4yQ2x5ZkpuZEw2aTJTMlM1cUNwNHN5NCtWQT1aICIe/9NVUzF1ZFUyOEN0MzF4VGRRbXRrdm1BZWo1TlU9ZYHLB3IS7AEIWRLnAQocYmJLMWRlVERWMWVQNXJyb0ZldUdnQ21ISlY0PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VUkFDYTNsYWpPYTdEcU53NE9oaVdrM2FNNkRCcnNsTi85aWJlNSs0dVo2Umc3dnNkVTFOMUNpQ3A3THpxL2hQQWJiWUZBQT09GAAgAigCMOau/Z+xsfkCOJiPtounMECWkbaLpzBKHGJtMldTZTdIM3M2S1R0ZUF1WnEyMzRYZkJGYz1aHyId91dJUVZmYlJzOW85eXZ6MjRPNys5QlhydmN5ST1l6vCM6xLuAQjGARLoAQocV1ZRWWZ1VDdtWDI0RlMyU3ZUTWNkMVBTOGdVPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VT0I3cVpWY2xEQjhRaGsvSDEzQTFuMkZOY3M1MkphUmRVUjFaM1A2Q2RzUVF6bUZrRy82M3pLMnpkWElBOE1jRjlPRWZOQT09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHHg1TCt3UUNkdklYa3luN0t0K0ZBcC9zdW5mQT1aICIe//9aV3ZPTHhIemJDOG9lSGtLcFBaVzBGQkNqVzg9Zacc0hkS9QEIigIS7wEKHDNOY1hvcW50dHRJVnZScEpETFJGcSs5N0k1dz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXNwekpyNUVtemNnUmYwZThqYVFYNVZLZk9KUlJUeGt0KzM3N3o1amdHMks5b0YyNkhTVy9MZ3J6VTFnUVF4ZlhzT3NtbEE9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShxvQ1FsSDNudGEveEpkTklGcnc4ZlZ5eGtiZzA9WiciJf////8AAAAF9zJaUTBsWEJOcGdzWGtvbTFxMlRMNjdOOVFQZz1lm1VNjxL1AQiBAhLvAQocQy94MjQ3cTBEVnNXMG96RGhiUGRZbjUvcnlJPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VV0UrcGM1UGhLdGJHS0FWeXI5VDlXVktJLzNWeVAzb1dQY3pidnR3UGNSelc0dTY5RGl5Z2xmdmN1YjZKYjdQOEZ2VzJBdz09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHFFBa1VwMlhjTzY1ZEx0cS9yTWlTK0xyVUtmaz1aJyIl/////wAAAAT9bVhoOWxtajNhOEJ0RWtEY0lQMmZ5cHpyNjdzPWXl4gNMEu0BCEcS6AEKHHFqUGorWkh5UllReWFaOWFzNGpaK3VTMUNTcz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXI4VEJCODlWc01vOXFOMk1DSkdLamJQRTVHNWlVZjI1anFwZHNLL1YzZy8yWUVIV2ZpQmc0TkhQci91TWJpTTA2RE4xS3c9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlZG2i6cwShxHYjhPR29MMHRUeXdYWHU4dkNUWENrSDlVVlU9WiAiHv+zRU9YbzFoV2lRNXFsUEFQZ285S1JXTlVjVGFvPWW0p6jJEvUBCPsBEu8BChx0NGQzVVlYNUMzQVgyRVFOMkhHbzBCMUZ0Yzg9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1UwQnRsakdWbFlseU0xcXV2RnNpZDM1ZDVCaFFvb0RIQkpZZExubTYvSkxRMzcxRVNud3FlUHZsVklab0MySXlxYjFxTDF3PT0YACABKAEw5q79n7Gx+QI4l4+2i6cwQJePtounMEocRnkvdldQZ3UzekU0UVVBWTY5ZVpkRjNrbFFFPVonIiX/////AAAABNlEV1VwTUhzLzVGQ24zZ3NSaU1zcE9rS2NVRHM9ZQAAAAAS9QEI+gES7wEKHGZ1aGVpZktNWVNJLytJKzdCVm9LUXpuMVpwYz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTZhWHdKNUY4aVF4aTZBbW1YL3pOWnpnTjh1dFU0NlBXUGluWW1tcEVrdlg5Tk45RjdsOFhtejhvTElZd1JWU0dVTGNIclE9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShw2eUVXOFdYM3FvdjJQSUxDVnA2MXAvVWhtd2M9WiciJf////8AAAAEs2VPcURhVmFUcG84RlZRbFVIaVAvNDJPZVA4ND1lqKzi3xLtAQiBARLnAQocZHVjM0hpL0V2cGlEMmRONnVSbGZnd0Y2VXdZPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VWHJlOTVmMDVrZkNIc2xOTmFFWUZjNEltTExad3M4NTdmWUViSkZWOUJJZ29kWFN6S2VoUWtlbEpmeWFkbHA3RC94TWQ0UT09GAAgAigCMOau/Z+xsfkCOJePtounMECUkbaLpzBKHEU5dk1iSjFnME9MNFNFYmJMb3NVd2hXMEFTND1aHyId92cvOWVwQUtqQmxLbEFVK0NRa2VYRnVmZ3hlOD1lY4+uOxL1AQiHAhLvAQocT0FZT0hBUG0vMUhoSllOZ1dhTk5MSlV4RzZnPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VWjFMSWtlSzlqcUdFNUZaQ0JBcGVlRkFJREgvQUVoL2NUckhSVjFHMTZMSHJQOGpXT044Nkh3WWtLc0JHL1RMb0pIMzBPUT09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHHVqbERqWGlhWkFXL2ZpcmMyWDl1WkdXNmpYcz1aJyIl/////wAAAAXdOG5WYkZKS0hQWDJBVkNrRkQ3OEZZVXZnK2JzPWWWTAEuEu4BCMIBEugBChwrbmZGL0JjOERPL0xzdW0wQmp1d0lOVzJ2cGM9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VzSXptNXkwYjFDZGhxd1ovSFFYOUdST3RxYk5vNUREcjVvQWcvdUlscERaQWlWcm9wY2JqdUJaMGtmaDRxUitiZFVEcmhRPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocbFJtVmIxTnlud25ib3JvVHZLaUdHd2dMdUpNPVogIh7//lVoVVdENTZmRjZOdEFwbnZkaUpSVXlPYUgwWT1lKNDhqRLtAQiHARLnAQocODRHSGo3NUlYR3FyY1JrWXFIYkFVb0pQNE9jPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VbEQ4VkRZVmwzWjZKeGdxMlBVcEhRQ3V2N1o1dW8wQmFROGRXZXE3dllsTUF2ejNaNXhkOE1NQy90VnI2eFhIWVRUQlpmQT09GAAgAigCMOau/Z+xsfkCOJePtounMECUkbaLpzBKHEkvOVFWMEZmNUt0cmJHaVFVTUVPeHhKN25VST1aHyId/09lMVZ6YXNlY1A3UVdndDU3WjFMR25WRjAxdz1l56elzBLtAQizARLnAQocVE92QXpuTFQwSlFOSkRsWWJvVU1xSXRxalVZPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VWDRUaWRKQ21YTy8yS1pJdGxBaTB2R2xhRGJJYU5wa3MrbWlnUlFNR21vaHgzdUVVZWRMaHBhU05KeTYzbTRsei95engrUT09GAAgAygDMI6+5cCysfkCOJaPtounMEDo2MqLpzBKHGJXK1ZFdVdGNnVGVXl6S0JtL1Y4WXdRZ215QT1aHyId/3JFTTZSdEhFN0E1RGF0V2VFNEJoaks1ZnlRbz1llTe1QhLsAQgMEucBChx2d2lTT2VGRUZJYXBiOTJ5T1kvQmRrU3ljMVk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VqeGswSDV4WDRHdGE4RURwRHFaa0FqQTVIOUxORER5bkJvUk9qV0NWQ05CdThiWENWZDhnTTloVmovSTV6ZjJXZ0ZWT0FnPT0YACACKAIwpMPAn7Gx+QI4mI+2i6cwQKWPtounMEocZzVHVXN0VGVvU2xIU3pMVksvUzY1MUdFdlZzPVofIh3dTVRXZWI3OUI4dVhJWU13N3prZWhweEl0UWF3PWWe4a+5EvQBCPUBEu4BChxmT1JTZC8wVFdCRTVxazBBcHZoR0ZZb0dlc0E9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VIYmY0WWNJQldVU2x4SElRQ1lnTk1JMW5EVUZZSGtITXRIS3d0NDNuZFF4Y0ROS21rMCtPbE0rSEpSMVVIVUFpWFdUUHd3PT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocUksveEhwSjNNUXBjeTlMbEVYZHZrRVIyUkxrPVomIiT/////AAAABGZ5NGhMTEwyWHhUYkZSNDVsWlNHYkJxSmVHND1l4zU7rBLsAQj3ARLmAQocd0FhMGtJZG5seVpvNHpTbkNqOTJlMjZEdEljPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VaU4xMjFGK3lESVg5dHRYOStQYzd4VzRSM1E0L3N5eENPZGZ2WVFSRm5uR3lWSDZuTURXUWtBbEpDY3p5QzVqdGNEZEVLQT09GAAgAigCMOau/Z+xsfkCOJaPtounMECUkbaLpzBKHEZLTnhDQmNSK1pHK01WUGNNcU9ybFRDdE9OTT1aHiIcQ0dueXhWV3BGME9GMStDYjRwQUJhaUY3WFhFPWXhLlkQEu0BCHoS6AEKHGVsWXd1MXljVTUzRXBidWRjaXkyM3JqVHpWUT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVXFjVm9QdWt1UytMVHBiaUJZT2lUcTJiL3JNOHlXV0hCK1FnZklWOFZPSFhtRVEvNjM5WFgwbEJ0Z1Vrc1Qva2pPb05rOFE9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShx6WTU0cDVlQVpMYmFzQmd5R3NzeU1hUW5DMGc9WiAiHv//YWEwVXc0YmpXV0RaWkxVbTJ6ZVRId3ZKZDFFPWXq8IzrEu4BCJcBEugBChxsS0x5eG9GM0xHRGd1ZFhtMWs4K2VYdGlwREk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VIcEpPSFJQdXZkV1g2NjNCU09nN29PYkF4dGRkT0c5SmdMOUsxNEYwbGZlaHE2QTdBUWZnQU16QkhpVS9EeG1hZ0JaaWNnPT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocYUFMWk9FOWxqNzZ0b3FNVDZ6bmNwTVk2UmhJPVogIh7//Xg1Z0sxZ2dBd0VSaU5aUnRrRlZhRTRzanhYST1lKNDhqRLsAQjFARLmAQocRXB2Ym5oeWQvaTc4Y09VNHdFR3lVWU1NeU53PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VY2UzbUFYU2UzYjl1VUwxQTlXdGJvVVhFLzlub1hTZTc0b1J4alRUVloxSW9jM1k2ZERQd01BazJ1M3prYjZGQm1DU0JZdz09GAAgAigCMOau/Z+xsfkCOJaPtounMECUkbaLpzBKHEYxSS9xeENvWXhRVk5MblFKaHF5dEx2NmFUST1aHiIceFNIT0YrNDhmbnRvWFcxMHJkYm1IMkNQWjhJPWWnHNIZEuwBCAoS5wEKHHkrejY0OXBCeTFnL3llZU5yc2poZ1hRTFVMZz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWczZ0MweGpGaFVRUjdJMDkvQlJvNHphQkhkMFVLdmVad2VPZm1NSmNETGVDOGkzRTVJcGsxdTlsbFcraCtxS2JKRTkxZ1E9PRgAIAIoAjCkw8CfsbH5AjiYj7aLpzBAlpG2i6cwShxWSWtxcGdCQ3BUVk1uVTFFVHBiYjhtc0J5MzQ9Wh8iHe5IUklQczlNV20yMFNhTTRZOXJENzBoeEZSUjQ9ZSOvxOsS7wEI0wES6QEKHFMybitRK3l6Vjc2Sit0YUNRTjhuZ0R0RC85cz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUZvSXdiTkdELzR0cHF0eXhZODNhSmhoUTdpMW96M3VYREdDbkc5Zy9PRElpSVNtZEtUalRSb2Nocnkxbm1BUnFZTkJjNFE9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShx0a0RTeGZOZ1cvZHBZa01TY1NaTHNHbVBYMFk9WiEiH////nNxWExwQSs1cWg3RDZvbjEvd3B3T2FSU2lZTT1lOPk5MxLwAQjxARLqAQocSmM3YjFjd2dvQ2hoc1JoTEdtMkhvdllkdmdzPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VMThmbTQ2UGZlSUpLMDZORE1wL0dtRWh1MTNyeUgxejhiZHFGaHloU0M2RUpZYmZ3RnUxYi90a2pwUW43QWE4VVVlK0NUUT09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHHo3RVB5cTIvQytxSUs1NDZlNHg4ZzVpTU5sQT1aIiIg/////VJGM1poQis5d21USlhKSUZnVUMyaWpFTmJFcz1l5SCxXhLuAQi4AhLoAQocTWZ0ZjB1b29WMzA1V2U3SllTOEh5WlBaU2NrPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VNTZoU0lhTHZoZm1OMktJNEF2RU90aktCVmlRNERNWTVkaS9xQ3RhTTlCeHAwK0Y0Nm5NZm9ISzlMeFZzWkdwMEZxcjZJQT09GAAgACgAMNHGn+Ga1/kCOIG3kferMECBt5H3qzBKHDFROExrOTk5SzlTMWh3K1h6cTN5VTdOWlh3WT1aICIe//9aaVZBOW5BLzVnQ3hsTXAwUjVaNnlab2R2cmM9ZQ/MNBQS7AEIThLnAQocVURhaFkyN3hORmszUFJyNzJkQWIvWWFFUTdRPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VL2hnZ0NDYllvL3FPV3JpT1ZPeEtzWXNSK21QTlJ3QWpyS1NPa21TSUpVUDZrQnNXUmF6VW5BMC9wcU4vOUFwelkrVmZWZz09GAAgAigCMKTDwJ+xsfkCOJePtounMECWkbaLpzBKHG5wby8xWkh2ZFVDTUxKQ1ZORjgyRHU0QkdBcz1aHyId3m5xYVdhenROZ0xvK2sxOTV6UVg1VGkyTHZIbz1lKNDhqRLuAQiZARLoAQocNUZGMi9YaklhWVBHWGVMMCtBTnVWU2U5ZzN3PRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VYVZCVElJeGhRSHlMOXMrSTBEZFhJRHVvWWJGWXczYzBHbmVDYUg5aHZsTk1sbHZVVjYxejNuc3BwdG1SK1ZWVUFpZ1luZz09GAAgAigCMOau/Z+xsfkCOJiPtounMECWkbaLpzBKHDQwd0JHY3E4NkhiSHJMV3ZYd1QvaXowbDFpZz1aICIe//1QMWY3ZE51dXRhemVKUmY2ZG1VUFVZc2pKRmM9ZXXpLEMS7wEIPhLqAQocMzNDUDhBWWtQNDZtcTFjaTZoalJDQmlZNllZPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VMmJheEczTVdwMFI0ZElhVU96RXc2bEhTNVEyWGduUVA4SldQcnZyVGU4YVZrakpvREc3MFV0MkVvV3lhWElRK3N2NTNuZz09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHEZoYW5JYUphSC91TDJ4V1p1TERGN3BzWS9vMD1aIiIg////uUV2U2czZVROZXJkQ0t4SnRHQzVTVldkQnQ3Yz1lKNDhqRLuAQiMARLoAQocUHRQc2EyWFFQMzNuUXJlbEVpblFmemVydlRJPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VNm81eTNObEh2dmVqV3NRSzlKQjE1THhMY0JuSjdyQTIvQ09iZUhYUDY2S1JndEsweENTOWNkZm1iWW8ydlZjVDE2RklvQT09GAAgAigCMOau/Z+xsfkCOJePtounMECUkbaLpzBKHG0rWHY0MVZ3UGdJekVvVTlTWXFrSzBIN0dvMD1aICIe/6dHTFh2ZVhqMTZNT1lzS3FXZEhnMFFLVkw1R2M9ZcyQxd8S9QEI/wES7wEKHG1mQ3l2YTNWbWlIMjZOQWZjZklIL015cC9EYz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTdtbzZVMFpYR1pqSlRpWFdjSzBaak40eUJVVkZMd1dmRnBFNytXQ2R5alovcUtrejMyeE5BNURxZGdKdDRaMkRidmlVdWc9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShwzcGo4WFdzOTIyVmN6TEdpWjBMdWRUaFRsMWs9WiciJf////8AAAAE+2M4SWNmazJpSncxUkQwdG0wT2hjSHozbjRnYz1lD8w0FBLsAQhlEucBChwzc1BDMVVtQmtXRHBLN3B6cG8yVW1xcjZzSTg9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VsOEZSaE5jWmtzWHNOQTJ2OUMvUWZhVFlwTEdOL0x2UG5HcDFxRFZCcnh4VW1uMlpLeEpybVJHUGxJa1VmSUdFTUpnbWFBPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocN1dIY0JaNCtzbzFZa3htenVPeDhpVk1rSkI0PVofIh3/eS9jUjVYNUpGMExyTmIrU2xXREduMEFESGNBPWUo0OGpEu8BCNYBEukBChxnUnRSaDFqTDhHUURrbWE2dys1bEZxWU90S0k9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1V5Yi9ITDBXVGhwcmsyOXFmVGdrcGFwelJGTVl2T05rRFhRc01VdWltQjNiN2p1eFQ3aUs3N0VVTFhPK05VNUZROHNIdlpnPT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJaRtounMEocemNhNC9LbkJuNE9PdSsvWTNmSHRGMmVwemowPVohIh////9NdDdENGhkd3k4Mk1sMGx0cHY1Z1Z5YXRQVnc9ZSjQ4akS7gEIwQES6AEKHGxGMXMzT1hTcFR1dERVQlRRZC84YmFmdnV2ST0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVUxpMzhaY1ZIRENIbnVYYVR0Vnl6NG1WejR6VXFwRmlDSTZoSlI3UGNObDBia2xHY2FHcW5xN0JwOE9sNWZaS2tDNGtQdUE9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShxwQTcvZ0lmR1RqelIyRlVuSk5lZ2VKTGEveGM9WiAiHv/9aCtualpzNHFmNkc0anBGNTVrV20veWMxL3l3PWV2sTLmEu4BCJUBEugBChwrb0F2QnJDSHdreVlZUUcvVTRWZ0JxYkhkVTA9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VBYk5WOUpUQSt4a2pINFR6aHEvalhtQjBpeUd5dmJkTlIzclowcmtabmd6ZVRRaDhncFViT2dTL0hjeXpjWlAyUDNjSWNBPT0YACABKAEwpMPAn7Gx+QI4l4+2i6cwQJePtounMEoccnhxM2hIVDlYSVdFSGQyTnZCSDFyTm1MdHd3PVogIh7/+2VDdit5cGg2RkV6QVNlUktIRGRTN2N2QnZ2MD1lAAAAABL0AQjEAhLuAQocUk5OczZsdXZUWnJYNVZFeXNjQ3VlNG1pUUhZPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VN1hnMHVQTWhMcEZOendmOUp0NFVvVGJqcVBHMUd0VE14WVc0ditFRWNweG1zaTJHcU5SY05CNXZYNzdVUW15RUZnSi9nUT09GAAgACgAMP3c9djJ+PkCOLK+6JmwMECyvuiZsDBKHEdEK0Z5aFE0OWNKRmt1SWdyZ1ZpdHdOZDJuYz1aJiIk/////wAAAAZzaS9CcW1IYnI1WGs2MGcvTEQzR1VaS2hpcHM9ZQv9OiYS6wEIaxLmAQocKzlRS2k0NHJjamRvcUJvbUJOemM0QTBtbHdnPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VdEk4UmJyUHUwSW40dXhSVnZJc0FCR05DUWlNcU5PeXJsajNXTnZhU3pwWitaMW8rMzhIdGhJQ09EaFVMZWtWSXFwQmNyZz09GAAgAigCMOau/Z+xsfkCOJiPtounMECWkbaLpzBKHFZFNkhXQ0pSY1VIV0p5ejUvcklPT2dSZnJZUT1aHiIcSWZQcm45cHBBcUpLTzM5UUJER1VVcUdNemNZPWUYUP/cEvUBCP4BEu8BChxHc0VjYm9rRE5ubUNPN1pKRFVudkVRVjF4VlU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VkZ0d2Rk0zYWVtb2FoRDNxUDE0Q3lJaVZjRWJBcEEwUHFIS3VvdXFzOC85YUVyYms5aXZIM2U3bDl5SDBNMENoUWRnSnhRPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocZ2wyeEFkUDhxTGhJSDVWRDVXdHZjWjRRdzZvPVonIiX/////AAAABPZzckQ4ZnE5a05wVGUzdCtyMVEvVW1VNlhIV2M9ZcyQxd8S7wEIvAES6QEKHDVqTGlDd0Y1ZlpKalVkYmtZR1U5SE12UzZ5RT0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVURCNkJBZlJlbTNGRTVrQ25uQ0lPbDhTVm1heFhYaU1OS1ZKQnI4eVF4dVUxcVRqVEtqYkdlM2lJNVZrbGFMUWI2Sm5sQWc9PRgAIAIoAjCkw8CfsbH5AjiXj7aLpzBAlpG2i6cwShxrZTNaY00xSmFxYTI5eDlySFp2Q09DemhEeW89WiEiH///+1dheWxwajl4NjI0NWZ0ZlFOWEdYVmd6ZlAyST1lTDywyBLvAQiXAhLpAQocUDdPd0Y1Mms0RTNzdmRPek9DOUtJYmxVb3VvPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9Va1l0Uk04QVFlL0dIVGpGS1FsU1JWUitRcTRCRDJLN201OG5KUTU1ZTlZTDVBNVRYWjFQcmhGK0EydGRJaHVibEJoeHNqQT09GAAgASgBMP3c9djJ+PkCOJaPtounMEC0yOiZsDBKHDRRcnc0eUhZblViWmdGOFE0dDZrRjExL2dpaz1aISIf////WE5sSkxDbitqOWMzSlBQN3I2QVdKTFdycTFVPWWoPVbdEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeEZoSXFrVnFVNDRIOHppUXhPNG1zL0FkQVIxY0ltbFlKYlUzcTRjM3NBMmV2Y0NoRy9Nb05Yem9Uc3lWUGMvU1N1WVJqVmoreHRNaDFIQ1ZPQzB5aEdocW5PZWc9PRgAIAAoADC5gqSdsbH5AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEu0BCIYBEucBChxDS3hKeWd1NE1ZRDZHZXVydkNVSStsQWdOSjA9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VIY1VZVjlVV2RYeHBXVzJxV2wvZXJHLzl6VGN6SjJaQVJDTUxubklOdHNxN3BtcmxCWC9pYVlCVXZuamhsOGREbURDOWRBPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJSRtounMEocd1pSRkdNbU1IU3h5N1h4WFVVUUdScnhRV2pjPVofIh3+VnZ2dElkVTZDL3F2OUxJL3ZjeXJyNkdPK1NRPWXR+ybkEu8BCNwBEukBChwxOCtDR1J2RTFPYmZsL1BjLy9sMkpyVU1jMHM9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VQc0NHcm1LV012MWNlUHhwZE1KVU1MTHBNOFFSTkJ2WXR4ckxBd043S2Z6ekV2eGVNNjd0TUdXUC9BSE5OdERkY1ljMnN3PT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEoccmpxZy96ZmtIQ2M0aGs0VjlERUV2M2pHdmdnPVohIh///5s0ZHJwWmtKRmNiYWxIWG1SQkNxbjlFWi9ub1U9ZWU8CJAS7AEIZBLnAQocQzJVRGJETmJJckl5TGFqNlEvVjJzcVVDZU5ZPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VWnZ3cXFOQkJJSnF1THdmRGtjK1hrR01LeWgyelVXVldoSjlVblQ0TmhJbTlrRi93c0Q3NG1mTDZJdERrSXc2clFWTnlldz09GAAgAigCMOau/Z+xsfkCOJiPtounMECWkbaLpzBKHGJUUHF4ZGk3S0tNMk91blFpaHN0ZGRsM2dDQT1aHyId/lhqS2FuM3dIYXJOMDEwK1ByMkFQRnBRMU9ZTT1lKNDhqRLvAQi2AhLpAQocVGhVQUFNWk5VRzhzYlVtS3lsSUVsY0w0VTdBPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9Vc2NudWd1Zko3NnIvdjRYWitOSkxKZFprVFpYRzNBTG14bS9TdzdrelBReWhiTmcwMXJrUk5OVitONXhjZGJpd3BMZVZadz09GAAgAygDMN+gzLuK1/kCOLXq5tSNMECyoIb1qzBKHFJXOVphMnVRTU0xcVp6WlhYa0RnY3lQYjlqUT1aISIf///tbjdndnErU2huaHhySFRrVGZvUUhzMEtKSGJrPWWmGWw7EvABCPMBEuoBChwwUktFRENFa2x6VmRDcnNBSGRIaXRpbUxxZEE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VEaTYvYUhRMGZvMmlOVXNXUVJ4ci9JRmFtcFQrUXErWjM4VUhNN1dsSXN4aXpGT21TaEhzWHJZU21SNFJTTDNOalRKcC9RPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocSHBoc3hISy9tTWdBRXpQcjd3cko1TEJnaGVzPVoiIiD////+c0dFMFEzdWJLZUJNdWRzejRGeWtpWEVURnQwPWWWTAEuEu4BCAkS6QEKHGpZZmlqTTlBQTl0ODRSL0hYWWVhRWFrY3JZdz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVTNmZDNrMnRFU3JMRE1zc1JGRnN0K29xSjlZVERHQXBwcDlzWWdPREx3M3V3UjdtRWd2UjJiK2ZYaTloeXB5VTN3L3hiWXc9PRgAIAEoATD93PXYyfj5AjiWj7aLpzBAtMjombAwShxUck1tZEJabFRiY2k3VnBMS04xSmhFTmtLTVE9WiEiH///+2FhUXRGSUpVRENNcnVQbU96WU5FQWVYN1hiVT1lmW3a3xLrAQhgEuYBChxPQitMakE4Nk5ObXVTTE9sRU12anhpdXA5RXc9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VFWWFyZXZCRTJNa1UwVzlWbHRHSG5XWXU1aXpMR2lXbm1xbmlVbmVoTnA5Q2hSb3dabFdEZ1E5NVk3b0lhemozeUJ1MkNRPT0YACACKAIw5q79n7Gx+QI4mI+2i6cwQJaRtounMEocZDF5MVFmeUZqR3dybm15ZWp6KzRzTWo2YVRBPVoeIhx3N09kQ0E2aTY1cHMwVXRqNEhzek5lQUVIMmM9ZSjQ4akS7AEIfxLnAQocREpPQzB0SFhGVHNlUVNXNU5UYWk0cGo5NStFPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9Vd1ErSmtnODF0N1l5SU8wdS9BVU5IWVlkTk0rdHlwQzZtTUJ2SWhHQW1VN2lOd2Q1UngwajdQM3g1cUw2SWFSc2VXZlc3QT09GAAgAigCMOau/Z+xsfkCOJePtounMECUkbaLpzBKHDVrNVUxVzFuRDZQZ1A3Ym16dmM0cEN3dHIyaz1aHyId3m5ROXZhQlNjZGI1WU9LYUdLbGlUMy93UC9zVT1lgcsHchLvAQjaARLpAQocQXR3VkRvN0RvajJzaC96b3hTdnFrcW9EaFFrPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VZDgxTHN3VEdIMGZ3TmJRTzRLOFpTTEVkbGp2N1dBM0NxQ1Q0b3RBaHA0a3UwM0NRZ0dtOEQwdVdJVU5jR3BTMktoWFF5dz09GAAgAigCMOau/Z+xsfkCOJePtounMECVkbaLpzBKHC9nOTR0SEwvN3ZXbFVGeGtaRW45aGV2WDlPZz1aISIf////c2Q3UWdzZHBBSGwrRkVuUGVMZ0UrZnpKY3B3PWWBywdyEu4BCMcBEugBChxNTmpuSzVqNENFaVFqQ1JqREI2QUFMVjlwTVU9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VDRndod2wxK3AyMkZwbTFWL3lXZU16Ty8wdEhYQXFGZ3VrOHZ1UlU3MzR4OGZoT25RaHhtLzBrVHNGdVVxVFloU1RzZThRPT0YACACKAIw5q79n7Gx+QI4l4+2i6cwQJWRtounMEocZFBNWDh6RmNpTDdFWUJNTktSdmhUUjlnVFJFPVogIh7//3JMdlpOQWZ2d3RGaHJhV3ltV3dpNDRDalpWdz1lpxzSGRLrAQgxEuYBChwrMkIxOVhYOEFMZzBGeWl3Z2JaWEFzMkludFE9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VDN0FYcGtNQy9yYXh2VXZoWUZ1azJOVitVcm0rVWhqQ3JsdXIrWCtJZ1pzcC84b05Qa3ZieU11cEVsNlNUNlpiR3p4Y0t3PT0YACACKAIwpMPAn7Gx+QI4l4+2i6cwQJWRtounMEocbHdPMWcvdUE2TnY1K25RVGlCK3M2c3RWU2xZPVoeIhxVZWFkYlA3a25OMitWL01FMUY3RGV1Z081dW89ZeenpcwS9QEIiAIS7wEKHHIvNE9GVFU4eU1GU3AzWW5qdVVvL0ZvV28zdz0SZlo6QURxdEFaeHEyVDhPSGo2RXk4c21HZjc1a2wvVWU0V21SS244LzJNZkJ5ZlhkK1FyMDFWY25zSDB1NWRCemQvNklCTnk2RGpxM3FVeDZEUkppRnVFcVVjd1cwMHpCcUIya2c9PRgAIAIoAjDmrv2fsbH5AjiXj7aLpzBAlZG2i6cwShx3UUZ0YlBWZ3RabFVPSDhYTEZPQXhnVnI5MXc9WiciJf////8AAAAF7nRaWWpZeTlPSHRwV2ZQc3krM08vTFhXd1VHVT1lKNDhqTABOAA=",
+   "version": 1
+}

@@ -1,0 +1,8 @@
+How to get back old chrome sync bookmarks?
+
+Answer: 
+
+Users/[Username]/AppData/Local/Google/Chrome/User Data/Default
+
+Bookmarks -> <- Bookmarks.bak2
+Bookmarks.back -> <- Bookmarks

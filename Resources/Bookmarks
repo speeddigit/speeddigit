@@ -1,0 +1,69 @@
+{
+   "checksum": "677c9f476fbb38222a217816edd15e2f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306221666994501",
+            "guid": "e3afd799-245f-4c7f-908d-2eca12af3b25",
+            "id": "323",
+            "name": "Google Translate",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=bn"
+         }, {
+            "date_added": "13306221564346570",
+            "guid": "10013643-0da3-4b9f-b931-29aefcab2055",
+            "id": "324",
+            "name": "Browse Fonts - Google Fonts",
+            "type": "url",
+            "url": "https://fonts.google.com/"
+         }, {
+            "date_added": "13306221589363424",
+            "guid": "4942db7a-98d4-4726-a3bb-2636e1ecf0dd",
+            "id": "322",
+            "name": "The W3C Markup Validation Service",
+            "type": "url",
+            "url": "https://validator.w3.org/"
+         }, {
+            "date_added": "13306221710810949",
+            "guid": "38b6b5e6-cb02-406e-bb89-2de5628baef4",
+            "id": "325",
+            "name": "Placeholder - Create Placeholder From Image Image - xgenious",
+            "type": "url",
+            "url": "https://placeholdermaker.xgenious.com/"
+         }, {
+            "date_added": "13306221571394784",
+            "guid": "b626faf0-b0c9-4ff0-9bd1-edbfe817c27a",
+            "id": "321",
+            "name": "Font Awesome Icons",
+            "type": "url",
+            "url": "https://fontawesome.com/v4/icons/"
+         } ],
+         "date_added": "13273577996843271",
+         "date_modified": "13306656780768762",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13273577996843278",
+         "date_modified": "13279547682116014",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13273577996843280",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu4CCs0CCIiBAhLGAhKrAQgCEqYBCgYKAmJtEAEQMxoSCYDFUWzS5wUAIYDFUWzS5wUAIhQJ9HXkd9LnBQAQMxkURuscgf1toiIUCWrOAHrS5wUAEDYZYgIookT8oj4iFAnBnDh60ucFABAzGRR7BvfYTh8OIhQJ0DJzetLnBQAQGRlnQMzVPaR5yyIUCVmBMnzS5wUAEAcZuQQBo0zE58UyGAoWCAIROmo8fNLnBQAYACEAAAAAAAAAABI8CAISOAoGCgJiZBAAEDMaEgmAxVFs0ucFACGAxVFs0ucFADIYChYIAhE6ajx80ucFABgAIQAAAAAAAAAAIABI4fmetrAwcOH5nrawMJIBRwpFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCYBaDHfS5wUAEYBaDHfS5wUAKbh4PHzS5wUAMIC1sbin+vkCEgAgASoYSnFYbnF5UG1Ud0trdklHaURKc3liQT09EsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeEZoSXFrVnFVNDRIOHppUXhPNG1zL0FkQVIxY0ltbFlKYlUzcTRjM3NBMmV2Y0NoRy9Nb05Yem9Uc3lWUGMvU1N1WVJqVmoreHRNaDFIQ1ZPQzB5aEdocW5PZWc9PRgAIAAoADC5gqSdsbH5AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEvQBCMQCEu4BChxSTk5zNmx1dlRaclg1VkV5c2NDdWU0bWlRSFk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1U3WGcwdVBNaExwRk56d2Y5SnQ0VW9UYmpxUEcxR3RUTXhZVzR2K0VFY3B4bXNpMkdxTlJjTkI1dlg3N1VRbXlFRmdKL2dRPT0YACAAKAAw/dz12Mn4+QI4sr7ombAwQLK+6JmwMEocR0QrRnloUTQ5Y0pGa3VJZ3JnVml0d05kMm5jPVomIiT/////AAAABnNpL0JxbUhicjVYazYwZy9MRDNHVVpLaGlwcz1lC/06JhL1AQjDAhLvAQocREMyQnc5Q2U2S0dncVVCT29hZ1JCc3NmNmxFPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VV0d0bWptdm96VVNXdUJLSG96VGFpK2VLL1VjSXBkd0pNSlZxRG5LMUJ0MG1LdXdmY2Z6V0ZMc09VU2JvSjRNck1Zc0F1UT09GAAgACgAMLaU9vKi+vkCOLK+6JmwMEC3nM+1sDBKHDFXR2ZqNDdDUWkvMHR0dUNwZW0vVWdGTnNqbz1aJyIl/////wAAAAX+K09Mc1NmaGh6c0luTjJWZ2g1dWp1RTNqQnZ3PWXFz5ABEvQBCMICEu4BChxNeks5Q2NPN0lNeWJGWStoL3YxcnYzTmo2bGs9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VNQm4rZE5BVjlDUVoxRE4yejA3VEhWR1ZmOEJGL3JkdUJUTXZ6K0M5VTZtY1RaVmMrZkloekhhbFBQb2IzR3pVTTUwT2JRPT0YACAAKAAwtpT28qL6+QI4sr7ombAwQLecz7WwMEocMjBsbHZxWjB3ekR4bFJySGh4ODNGd040bWt3PVomIiT/////AAAABnRKQVdWN3NrZUxhTVpGWjAxa3pxaWNodndsZz1ln4qCXxL1AQjBAhLvAQocVWtOeTE4NXM4NTF5RCtUOWlrTDJhRFhzcWswPRJmWjpBRHF0QVp4cTJUOE9IajZFeThzbUdmNzVrbC9VMy9hMWViMHd0Um1NY0N4dGhwa0tFcDlrQTA0MDFmbTdwdExNMmtXbzhvTXJ4WFN0eHE1ZkRDMTZxS3lMK0NYQ1pGaGg5Zz09GAAgACgAMP3c9djJ+PkCOLK+6JmwMECyvuiZsDBKHGxkbjA5alJGU0NNdVVKNjNHbDJtSVZVeGhuVT1aJyIl/////wAAAAbdR3pYWVd1ejVzOVQvUUdRdVJFQ09qVVdKME9zPWXyliIyEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaelpueTRMbEVsVCsyUVQwNFNWRHlRL0RiYlFIbndqdkhyQlo1dGxESVlRQldlWmVaWWNzT2lUVkVIYkRRb1FZZkxzT0c0dHZ3NzdRcUJWd0FiY21HQUgzNUpuaHc9PRgAIAAoADC5gqSdsbH5AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEvUBCMUCEu8BChx5dkRadWlnbkxuTllPQm4wK3BIQXVVU1RJSUk9EmZaOkFEcXRBWnhxMlQ4T0hqNkV5OHNtR2Y3NWtsL1VUT29VQVZTbHYzYVEzWXBlQS9lSit1V1FtV0hwbUFCRUdCOVFGVVBSTER0aENwc0RWaGg4L2lwRXBKNEQwY0YwRXYrempBPT0YACAAKAAw1sGE+qX6+QI4sr7ombAwQLWkgbawMEocc0NGcDd4TU8wZ09CVDNjRG1UdUNaV3hqQTIwPVonIiX/////AAAABro2NENFK0g5UXdvY2ZIZDErRStlNE54TCtQVGM9ZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5VGcyK09Wc1hCelNHNHM5b1IvMkZoQ1V0ZmllemREMms2ODQzU250Q0ZVOUVWRWowRVJYM1JjTjdJOXQwNXF3ckFybjJ4GAAgACgAMLmCpJ2xsfkCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAwATgA",
+   "version": 1
+}
