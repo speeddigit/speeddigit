@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="assets/vendor/css/bootstrap.min.css">
+    <style>
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="editor" data-height="200"></div>
+        <br>
+        <br>
+        <div class="editor" data-height="100"></div>
+        <br>
+        <br>
+        <div class="editor" data-height="80"></div>
+    </div>
+
+    <!-- <script src="assets/vendor/js/ckeditor.js"></script> -->
+    <script src="https://cdn.ckeditor.com/ckeditor5/36.0.0/classic/ckeditor.js"></script>
+
+    <script>
+        window.editors = {};
+        document.querySelectorAll('.editor').forEach( ( node, index ) => {
+            ClassicEditor
+                .create( node, {} )
+                .then( newEditor => {
+                    newEditor.editing.view.change( writer => {
+                        var height = node.getAttribute('data-height');
+                        writer.setStyle('min-height', height + 'px', newEditor.editing.view.document.getRoot());
+                    } );
+                    window.editors[index] = newEditor 
+            } );
+        } );
+    </script>
+
+</body>
+</html>
